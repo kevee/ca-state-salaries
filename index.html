@@ -1,0 +1,146 @@
+---
+layout: page
+title: casalari.es
+active: home
+---
+<div class="alert alert-danger hidden-lg">
+	<strong>Hi, phone/tablet person!</strong> Just an FYI, casalari.es uses a lot of data, so if you pay by the byte you might want to head to a computer. Cheers!
+</div>
+
+<div id="content">
+	<div class="jumbotron">
+	  <h1>California State Salaries</h1>
+	  <p><strong class="text-danger">State employees are amazing</strong>, and the <a href="/#!/department/2011/csu-monterey-bay/1766680">person who made this</a> thinks that since our salaries are public record, we should be able to use that data to compare ourselves to others in similar positions, and cost out meetings to discourage wasting time and money. Let's be honest, most of you are just looking to see how much we're spending on a stupid co-worker, if so, <strong> this is the place for you</strong>.</p>
+	  <p class="text-center">
+	  	<iframe src="http://ghbtns.com/github-btn.html?user=kevee&repo=ca-state-salaries&type=watch"
+  allowtransparency="true" frameborder="0" scrolling="0" width="62" height="20"></iframe> <a href="https://twitter.com/share" class="twitter-share-button" data-text="I'm checking out state salaries" data-via="kevinmiyar">Tweet</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+	  </p>
+	</div>
+</div>
+{% raw %}
+<script id="loading-template" type="text/x-handlebars-template">
+	<div id="loading"><span class="invisible">Loading...</span></div>
+</script>
+
+<script id="entry-template" type="text/x-handlebars-template">
+  template content
+</script>
+
+<script id="department-template" type="text/x-handlebars-template">
+	{{#if meeting}}
+		<div>
+			<div class="panel panel-info">
+			  <div class="panel-heading">Your {{hour}} hour(s) meeting</div>
+			  Panel content
+			</div>
+		</div>
+	{{/if}}
+	<div class="page-header">
+		<h1>{{department}} <small>in {{ year }}</small></h1>
+	</div>
+	<form class="table-filter form-inline">
+		<label for="find" class="element-invisible">Find person or position</label>
+		<input type="text" id="find" class="form-control" data-target="table.department tr" placeholder="Find person or position">
+	</form>
+	<table class="table table-striped department stupid">
+		<thead>
+			<tr>
+				<th data-sort="string" class="first-sort">Last name</th>
+				<th data-sort="string">First name</th>
+				<th data-sort="string">Middle name</th>
+				<th data-sort="string">Job title</th>
+				<th data-sort="float">Salary</th>
+			</tr>
+		</thead>
+		<tbody>
+			{{#positions}}
+				<tr data-id="{{id}}">
+					<td>{{last_name}}</td>
+					<td>{{first_name}}</td>
+					<td>{{middle_name}}</td>
+					<td>{{job_title}}</td>
+					<td class="pay money">{{total_pay}}</td>
+				</tr>
+			{{/positions}}
+		</tbody>
+	</table>
+</script>
+
+<script id="person-template" type="text/x-handlebars-template">
+	<div class="page-header">
+		<h1>{{ person.first_name }} {{ person.last_name }} <small>{{ person.job_title }}</small></h1>
+		<h3>{{ department }} <small>in {{year}}</small></h3>
+	</div>
+	<div class="row">
+		<div class="col-lg-6">
+			<div class="well">
+				<h3>Total Pay:</h3>
+				<h4 class="total-pay money">${{ person.total_pay }}</h4>
+			</div>
+		</div>
+		<div class="col-lg-6">
+			<h3>Stats for {{ person.job_title }}</h3>
+			<table class="table table-bordered table-striped">
+				<thead>
+					<tr>
+						<th>Statistic</th>
+						<th>Value</th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<td>Total employees</td>
+						<td class="pay money">{{ averages.total }}</td>
+					</tr>
+					<tr>
+						<td>Median pay</td>
+						<td class="pay money">{{ averages.median }}</td>
+					</tr>
+					<tr>
+						<td>Average pay <small>(mean)</small></td>
+						<td class="pay money">{{ averages.mean }}</td>
+					</tr>
+					<tr>
+						<td>Highest pay</td>
+						<td class="pay money">{{ averages.max }}</td>
+					</tr>
+				</tbody>
+			</table>
+		</div>
+	</div>
+</script>
+
+<script id="meeting-template" type="text/x-handlebars-template">
+	<div class="page-header">
+		<h1>Price a meeting</h1>
+	</div>
+	<p class="lead">Meetings are usually a waste of time, but it's easier to turn down a meeting if it's also a a waste of money.</p>
+	<form id="meeting" class="form-horizontal">
+		<div class="form-group">
+      <label for="hours" class="col-lg-2 control-label">Number of hour(s)</label>
+      <div class="col-lg-10">
+      	<input type="number" class="form-control input-large" id="hours" value="1">
+      </div>
+    </div>
+		<div class="form-group">
+			<label for="hours" class="col-lg-2 control-label">Department</label>
+      <div class="col-lg-10">
+      	<select class="department-select" id="department-meeting"></select>
+      	<span class="help-block"><strong>Note: </strong> UC and CSU campuses are only current to the year 2011.</span>
+      </div>
+    </div>
+    <div class="form-group">
+    	<div class="col-offset-2 col-lg-10">
+	      <button type="submit" class="btn btn-default">Add people</button>
+	    </div>
+    </div>
+	</form>
+</script>
+
+<script id="no-data-template" type="text/x-handlebars-template">
+	<h2>Whoops, we don't have any data for that year!</h2>
+</script>
+
+
+{% endraw %}

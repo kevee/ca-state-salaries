@@ -22,7 +22,7 @@ foreach($years as $year) {
 													 'total' => count($salaries)
 													 );
 	}
-	$file = fopen('data/'. $year .'/_average_salaries.json', 'w');
+	$file = fopen('data/'. $year .'/average_salaries.json', 'w');
 				fwrite($file, json_encode($final, JSON_PRETTY_PRINT));
 				fclose($file);
 }

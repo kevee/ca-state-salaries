@@ -1,0 +1,60 @@
+.element-invisible {
+	position: absolute !important;
+	clip: rect(1px 1px 1px 1px);
+	clip: rect(1px, 1px, 1px, 1px);
+	overflow: hidden;
+	height: 1px;
+}
+
+.navbar .navbar-brand {
+	font-weight: 300;
+}
+
+#loading {
+	position: absolute;
+}
+
+#loading img {
+	width: 300px;
+}
+
+#year {
+	width: 100px;
+}
+
+select.department-select {
+	width: 300px;
+}
+
+table.department tbody tr {
+	cursor: pointer;
+}
+
+table.department tbody tr:hover, table.department tbody tr:hover td {
+	background: #fcf8e3 !important;
+}
+
+table.stupid th {
+	cursor: pointer;
+}
+
+.pay:before {
+	content: '$';
+}
+
+.table-filter .form-control {
+	width: 20%;
+}
+
+.total-pay {
+	font-size: 4em;
+	text-align: center;
+}
+
+.money {
+	font-family: "Andale Mono", monospace;
+}
+
+#hours { 
+	width: 100px;
+}
