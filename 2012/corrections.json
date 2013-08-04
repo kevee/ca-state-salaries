@@ -1,0 +1,67 @@
+{
+    "2095763": {
+        "first_name": "John",
+        "middle_name": "A",
+        "last_name": "Madriz",
+        "job_title": "STAFF SERVICES MANAGER I",
+        "department": "CORRECTIONS",
+        "base_pay": 0,
+        "other_pay": 0,
+        "overtime_pay": 0,
+        "total_pay": 72108.65,
+        "year": "-",
+        "dept_average": 0
+    },
+    "2095762": {
+        "first_name": "Elda",
+        "middle_name": "C",
+        "last_name": "Ortiz",
+        "job_title": "PERSONNEL SUPERVISOR II",
+        "department": "CORRECTIONS",
+        "base_pay": 0,
+        "other_pay": 0,
+        "overtime_pay": 0,
+        "total_pay": 62960.5,
+        "year": "-",
+        "dept_average": 0
+    },
+    "2095765": {
+        "first_name": "Wilson",
+        "middle_name": "B",
+        "last_name": "Yee",
+        "job_title": "SENIOR PERSONNEL SPECIALIST",
+        "department": "CORRECTIONS",
+        "base_pay": 0,
+        "other_pay": 0,
+        "overtime_pay": 0,
+        "total_pay": 60613.64,
+        "year": "-",
+        "dept_average": 0
+    },
+    "2095764": {
+        "first_name": "Nancy",
+        "middle_name": "L",
+        "last_name": "Farnsworth",
+        "job_title": "ACCOUNTANT TRAINEE",
+        "department": "CORRECTIONS",
+        "base_pay": 0,
+        "other_pay": 0,
+        "overtime_pay": 0,
+        "total_pay": 45738.63,
+        "year": "-",
+        "dept_average": 0
+    },
+    "2095766": {
+        "first_name": "Laura",
+        "middle_name": "A",
+        "last_name": "Moreno",
+        "job_title": "PERSONNEL SPECIALIST",
+        "department": "CORRECTIONS",
+        "base_pay": 0,
+        "other_pay": 0,
+        "overtime_pay": 0,
+        "total_pay": 40418.53,
+        "year": "-",
+        "dept_average": 0
+    }
+}
