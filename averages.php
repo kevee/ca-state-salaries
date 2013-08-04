@@ -6,7 +6,7 @@ foreach($years as $year) {
 	$averages = array();
 	foreach($departments as $filename => $department) {
 		print "Processing $year $department \n";
-		$department = json_decode(file_get_contents($year .'/'. $filename .'.json'));
+		$department = json_decode(file_get_contents('data/'. $year .'/'. $filename .'.json'));
 		foreach($department as $position) {
 			$averages[$position->job_title][] = $position->total_pay;
 		}
@@ -22,7 +22,7 @@ foreach($years as $year) {
 													 'total' => count($salaries)
 													 );
 	}
-	$file = fopen($year .'/_average_salaries.json', 'w');
+	$file = fopen('data/'. $year .'/_average_salaries.json', 'w');
 				fwrite($file, json_encode($final, JSON_PRETTY_PRINT));
 				fclose($file);
 }

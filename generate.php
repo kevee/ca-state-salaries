@@ -27,7 +27,7 @@ foreach($years as $year) {
 				}
 			}
 			if(count($results)) {
-				$file = fopen($year .'/'. $filename .'.json', 'w');
+				$file = fopen('data/'. $year .'/'. $filename .'.json', 'w');
 				fwrite($file, json_encode($results, JSON_PRETTY_PRINT));
 				fclose($file);
 				print 'Wrote '. $department . "\n";
