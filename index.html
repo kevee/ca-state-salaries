@@ -68,6 +68,9 @@ active: home
 </script>
 
 <script id="person-template" type="text/x-handlebars-template">
+	<div class="pull-right">
+		<a href="https://twitter.com/share" class="twitter-share-button" data-text="{{ person.first_name }} works for California, and all they got was this lousy salary.">Tweet</a>
+	</div>
 	<div class="page-header">
 		<h1>{{ person.first_name }} {{ person.last_name }} <small>{{ person.job_title }}</small></h1>
 		<h3>{{ department }} <small>in {{year}}</small></h3>
@@ -139,7 +142,11 @@ active: home
 </script>
 
 <script id="no-data-template" type="text/x-handlebars-template">
-	<h2>Whoops, we don't have any data for that year!</h2>
+	
+	<div class="alert alert-danger">
+		<h2>Whoops, we don't have any data for that year!</h2>
+		<p class="lead"><strong>Note: </strong> There is no 2012 data yet for any CSU or UC campuses.</p>
+	</div>
 </script>
 
 
