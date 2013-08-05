@@ -10,7 +10,8 @@ active: home
 <div id="content">
 	<div class="jumbotron">
 	  <h1>California State Salaries</h1>
-	  <p><strong class="text-danger">State employees are amazing</strong>, and the <a href="/#!/department/2011/csu-monterey-bay/1766680">person who made this</a> thinks that since our salaries are public record, we should be able to use that data to compare ourselves to others in similar positions, and cost out meetings to discourage wasting time and money. Let's be honest, most of you are just looking to see how much we're spending on a stupid co-worker, if so, <strong> this is the place for you</strong>.</p>
+	  <p><strong class="text-danger">State employees are amazing</strong>, and the <a href="/#!/department/2011/csu-monterey-bay/1766680">person who made this</a> thinks that since our salaries are public record, we should be able to use that data to compare ourselves to others in similar positions, and cost out meetings to discourage wasting time and money.</p>
+	  <p>But let's be honest, most of you are here just to see how much we're spending on a stupid co-worker, and if so, <strong> this is the place for you</strong>.</p>
 	  <p class="text-center">
 	  	<iframe src="http://ghbtns.com/github-btn.html?user=kevee&repo=ca-state-salaries&type=watch"
   allowtransparency="true" frameborder="0" scrolling="0" width="62" height="20"></iframe> <a href="https://twitter.com/share" class="twitter-share-button" data-text="I'm checking out state salaries" data-via="kevinmiyar">Tweet</a>
@@ -96,7 +97,7 @@ active: home
 
 <script id="person-template" type="text/x-handlebars-template">
 	<div class="pull-right">
-		<a href="https://twitter.com/share" class="twitter-share-button" data-text="{{ person.first_name }} works for California, and all they got was this lousy salary.">Tweet</a>
+		<a href="https://twitter.com/share" class="twitter-share-button" data-text="{{ person.first_name }} works for California, and all they got was ${{ person.total_pay }}.">Tweet</a>
 	</div>
 	<div class="page-header">
 		<h1>{{ person.first_name }} {{ person.last_name }} <small>{{ person.job_title }}</small></h1>
