@@ -32,7 +32,7 @@ active: home
 	{{#if meeting}}
 		<div>
 			<div class="panel panel-info">
-			  <div class="panel-heading">Your {{#if plural}} {{hours}} {{else}} one {{/if}} hour meeting</div>
+			  <div class="panel-heading">Your {{#if plural}} {{hours}} {{else}} one {{/if}} hour meeting {{meetingMessage}}</div>
 			  	{{#if participants }}
 			  		<table class="table table-striped table-bordered">
 				  		<thead>

@@ -1,5 +1,5 @@
 (function($) {
-	
+
 	$(document).ready(function() {
 		$('select').chosen();
 		caSalaries.buildDepartmentList($('#department'));
@@ -89,7 +89,15 @@
 						participants[index].hourly = Math.round((participants[index].total_pay / 2088) * data.hours, 2);
 						meetingTotal += participants[index].hourly * data.hours;
 					});
-					caSalaries.updateContent('department-template', { department : departmentName, meeting : true, hours: data.hours, meetingTotal : meetingTotal, participants : participants, plural : (data.hours > 1), year : year, positions : list });
+					caSalaries.updateContent('department-template', { department : departmentName,
+							meeting : true,
+							hours: data.hours,
+							meetingTotal : meetingTotal,
+							participants : participants,
+							plural : (data.hours > 1),
+							year : year,
+							meetingMessage : caSalaries.pithyMeetings[Math.floor(Math.random()*caSalaries.pithyMeetings.length)],
+							positions : list });
 			  	$('table.department tbody tr').on('click', function() {
 			  		var participants = (typeof data.participants !== 'undefined') ? data.participants.split(',') : [ ];
 			  		participants.push($(this).data('id'));
@@ -109,7 +117,7 @@
 				  	}
 				  	else {
 				  		$.router.go('/meeting/' + data.department + '/' + data.hours);
-				  	}		  		
+				  	}
 			  	})
 			  });
 			});
@@ -126,25 +134,38 @@
 
 	var caSalaries = {
 
+		pithyMeetings : [
+			'about the state of the office refrigerator.',
+			'where one person will speak and everyone else will be answering email.',
+			'that will eventually devolve into a serious griping session.',
+			'which has a carefully-crafted agenda that will be derailed five minutes in.',
+			'that could have been replaced by a single well-written email.',
+			'that will end with someone asking for "deliverables."',
+			'in that conference room guarded by an overly-protective administrative assistant.',
+			'which was scheduled three months ago and no one remembers why.',
+			'where someome will hand out printouts of the file they just emailed everyone.',
+			'where printed copies of the 50-slide powerpoint will be double-sided to "save paper."'
+		],
+
 		loading : function(stop) {
 			this.updateContent('loading-template');
 			var opts = {
-			  lines: 10, // The number of lines to draw
-			  length: 20, // The length of each line
-			  width: 10, // The line thickness
-			  radius: 30, // The radius of the inner circle
-			  corners: 1, // Corner roundness (0..1)
-			  rotate: 0, // The rotation offset
-			  direction: 1, // 1: clockwise, -1: counterclockwise
-			  color: '#000', // #rgb or #rrggbb
-			  speed: 1, // Rounds per second
-			  trail: 27, // Afterglow percentage
-			  shadow: false, // Whether to render a shadow
-			  hwaccel: false, // Whether to use hardware acceleration
-			  className: 'spinner', // The CSS class to assign to the spinner
-			  zIndex: 2e9, // The z-index (defaults to 2000000000)
-			  top: 'auto', // Top position relative to parent in px
-			  left: 'auto' // Left position relative to parent in px
+			  lines: 10,
+			  length: 20,
+			  width: 10,
+			  radius: 30,
+			  corners: 1,
+			  rotate: 0,
+			  direction: 1,
+			  color: '#000',
+			  speed: 1,
+			  trail: 27,
+			  shadow: false,
+			  hwaccel: false,
+			  className: 'spinner',
+			  zIndex: 2e9,
+			  top: 'auto',
+			  left: 'auto'
 			};
 			var spinner = new Spinner(opts).spin($('#loading').get(0));
 			if(stop) {
