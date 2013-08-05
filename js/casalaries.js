@@ -86,8 +86,8 @@
 					$.each(participants, function(index, participant) {
 						participants[index] = positionData[participant];
 						participants[index].id = participant;
-						participants[index].hourly = Math.round(participants[index].total_pay / 2088, 2);
-						meetingTotal += participants[index].hourly;
+						participants[index].hourly = Math.round((participants[index].total_pay / 2088) * data.hours, 2);
+						meetingTotal += participants[index].hourly * data.hours;
 					});
 					caSalaries.updateContent('department-template', { department : departmentName, meeting : true, hours: data.hours, meetingTotal : meetingTotal, participants : participants, plural : (data.hours > 1), year : year, positions : list });
 			  	$('table.department tbody tr').on('click', function() {
