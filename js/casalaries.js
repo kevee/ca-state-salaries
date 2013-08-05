@@ -87,7 +87,7 @@
 						participants[index] = positionData[participant];
 						participants[index].id = participant;
 						participants[index].hourly = Math.round((participants[index].total_pay / 2088) * data.hours, 2);
-						meetingTotal += participants[index].hourly * data.hours;
+						meetingTotal += participants[index].hourly;
 					});
 					caSalaries.updateContent('department-template', { department : departmentName,
 							meeting : true,
