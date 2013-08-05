@@ -70,7 +70,7 @@
 			});
 		});
 
-		$.router.add('/meeting/:department/:hours', function(data) {
+		var meetingPage = function(data) {
 			caSalaries.loading();
 		  caSalaries.getData('departments', function(departmentData) {
 		  	var departmentName = departmentData[data.department];
@@ -81,13 +81,43 @@
 						positionData[position].id = position;
 					  list.push(positionData[position]);
 					}
-					caSalaries.updateContent('department-template', { department : departmentName, meeting : true, hours: data.hours, year : year, positions : list });
+					var participants = (typeof data.participants !== 'undefined') ? data.participants.split(',') : [ ];
+					var meetingTotal = 0;
+					$.each(participants, function(index, participant) {
+						participants[index] = positionData[participant];
+						participants[index].id = participant;
+						participants[index].hourly = Math.round(participants[index].total_pay / 2088, 2);
+						meetingTotal += participants[index].hourly;
+					});
+					caSalaries.updateContent('department-template', { department : departmentName, meeting : true, hours: data.hours, meetingTotal : meetingTotal, participants : participants, plural : (data.hours > 1), year : year, positions : list });
 			  	$('table.department tbody tr').on('click', function() {
-			  		console.log('hi');
+			  		var participants = (typeof data.participants !== 'undefined') ? data.participants.split(',') : [ ];
+			  		participants.push($(this).data('id'));
+			  		$.router.go('/meeting/' + data.department + '/' + data.hours + '/' + participants.join(','));
 			  	});
+			  	$('table .remove').on('click', function(event) {
+			  		var $button = $(this);
+			  		event.preventDefault();
+			  		var participants = (typeof data.participants !== 'undefined') ? data.participants.split(',') : [ ];
+			  		$.each(participants, function(index, value) {
+			  			if(value == $button.data('id')) {
+			  				participants.splice(index, 1);
+			  			}
+			  		});
+			  		if(participants.length) {
+				  		$.router.go('/meeting/' + data.department + '/' + data.hours + '/' + participants.join(','));
+				  	}
+				  	else {
+				  		$.router.go('/meeting/' + data.department + '/' + data.hours);
+				  	}		  		
+			  	})
 			  });
 			});
-		});
+		};
+
+		$.router.add('/meeting/:department/:hours', meetingPage);
+
+		$.router.add('/meeting/:department/:hours/:participants', meetingPage);
 
 		if(location.hash.indexOf("#!/") === 0) {
 			$(window).trigger("hashchange.router");

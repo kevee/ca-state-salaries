@@ -31,8 +31,35 @@ active: home
 	{{#if meeting}}
 		<div>
 			<div class="panel panel-info">
-			  <div class="panel-heading">Your {{hour}} hour(s) meeting</div>
-			  Panel content
+			  <div class="panel-heading">Your {{#if plural}} {{hours}} hours {{else}} one hour {{/if}} meeting</div>
+			  	{{#if participants }}
+			  		<table class="table table-striped table-bordered">
+				  		<thead>
+				  			<tr>
+				  				<th>Remove</th>
+				  				<th>Name</th>
+				  				<th>Salary</th>
+				  				<th>Cost</th>
+				  			</tr>
+				  		</thead>
+				  		<tbody>
+				  		{{#participants}}
+				  			<tr>
+				  				<td><a class="btn btn-danger remove" data-id="{{ id }}">Remove</a></td>
+				  				<td>{{ first_name }} {{ last_name }}</td>
+				  				<td class="money pay">{{ total_pay }}</td>
+				  				<td class="money pay">{{ hourly }}</td>
+				  			</tr>
+				  		{{/participants}}
+				  			<tr>
+				  				<td colspan="3" class="text-right"><strong>Total</strong></td>
+				  				<td class="money pay"><strong>{{ meetingTotal }}</strong></td>
+				  			</tr>
+				  		</tbody>
+			  		</table>
+			  	{{else}}
+			  		<p class="lead text-primary">Click on some people below to add them to this meeting.</p>
+			  	{{/if}}
 			</div>
 		</div>
 	{{/if}}
