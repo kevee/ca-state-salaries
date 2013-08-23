@@ -74,7 +74,7 @@
 			caSalaries.loading();
 		  caSalaries.getData('departments', function(departmentData) {
 		  	var departmentName = departmentData[data.department];
-		  	var year = (data.department.indexOf('csu-') === 0 || data.department.indexOf('uc-') === 0 ) ? 2011 : 2012;
+		  	var year = 2012;
 		  	caSalaries.getData(year +'/' + data.department, function(positionData) {
 			  	var list = [];
 					for (var position in positionData) {
