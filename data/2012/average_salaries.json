@@ -882,11 +882,11 @@
         "total": 1
     },
     "LEGAL SECRETARY": {
-        "mean": 43761.3484704,
+        "mean": 43713.520904,
         "median": 48199.68,
         "min": 524.43,
         "max": 74612.58,
-        "total": 523
+        "total": 531
     },
     "MEMBER, ALCOHOLIC BEVERAGE CONTROL APPEALS BOARD": {
         "mean": 12719.965,
@@ -1043,11 +1043,11 @@
         "total": 58
     },
     "STOCK CLERK": {
-        "mean": 33218.2229032,
+        "mean": 33073.708,
         "median": 34624.4,
         "min": 234.02,
         "max": 42642.8,
-        "total": 31
+        "total": 40
     },
     "SEASONAL CLERK": {
         "mean": 5284.62716608,
@@ -1701,11 +1701,11 @@
         "total": 72
     },
     "WAREHOUSE WORKER": {
-        "mean": 35406.2841981,
+        "mean": 34734.0964643,
         "median": 38493.4,
         "min": 374.19,
         "max": 70140.47,
-        "total": 212
+        "total": 280
     },
     "MAILING MACHINES OPERATOR II": {
         "mean": 35658.1344697,
@@ -2121,11 +2121,11 @@
         "total": 6
     },
     "SPECIAL CONSULTANT": {
-        "mean": 44962.0548571,
-        "median": 28516.2,
-        "min": 378.48,
+        "mean": 6113.64759572,
+        "median": 2000,
+        "min": 91,
         "max": 171009.24,
-        "total": 35
+        "total": 5328
     },
     "AQUATIC PEST CONTROL TECHNICIAN, DEPARTMENT OF BOATING AND WATERWAYS": {
         "mean": 26289.5,
@@ -4025,11 +4025,11 @@
         "total": 46
     },
     "LEGAL ASSISTANT": {
-        "mean": 44211.80875,
+        "mean": 44897.6766667,
         "median": 48441.2,
         "min": 10817.84,
-        "max": 52181.76,
-        "total": 32
+        "max": 66845.45,
+        "total": 33
     },
     "COASTAL PROGRAM ANALYST I": {
         "mean": 27260.6508333,
@@ -4480,11 +4480,11 @@
         "total": 1
     },
     "PRESIDENT": {
-        "mean": 490049.13,
-        "median": 490049.13,
-        "min": 490049.13,
+        "mean": 265236.52,
+        "median": 320688.96,
+        "min": 43473.12,
         "max": 490049.13,
-        "total": 1
+        "total": 30
     },
     "CHAIRPERSON OF THE ICOC BOARD": {
         "mean": 400025.15,
@@ -4501,11 +4501,11 @@
         "total": 1
     },
     "GENERAL COUNSEL": {
-        "mean": 141786.97,
-        "median": 107235.45,
+        "mean": 177852.2275,
+        "median": 286048,
         "min": 20350.1,
         "max": 297775.36,
-        "total": 3
+        "total": 4
     },
     "VICE CHAIRMAN": {
         "mean": 247149.04,
@@ -5642,11 +5642,11 @@
         "total": 7
     },
     "CUSTODIAN": {
-        "mean": 25647.8412976,
-        "median": 29999.2,
-        "min": 14.42,
-        "max": 52247.54,
-        "total": 1734
+        "mean": 25494.6336714,
+        "median": 29855.3,
+        "min": 13.2,
+        "max": 56904.61,
+        "total": 3037
     },
     "MILL AND CABINET SUPERVISOR": {
         "mean": 51807.15,
@@ -5880,11 +5880,11 @@
         "total": 541
     },
     "LEAD CUSTODIAN": {
-        "mean": 29831.83625,
-        "median": 33182.89,
-        "min": 2737,
-        "max": 41816.4,
-        "total": 16
+        "mean": 38086.7748101,
+        "median": 38314.8,
+        "min": 14.1,
+        "max": 53920.08,
+        "total": 158
     },
     "SUPPORT SERVICES ASSISTANT (INTERPRETER)": {
         "mean": 25179.7133929,
@@ -6291,6 +6291,230 @@
         "min": 200,
         "max": 2300,
         "total": 8
+    },
+    "CHANCELLOR OF THE CALIFORNIA STATE UNIVERSITY": {
+        "mean": 426444,
+        "median": 426444,
+        "min": 426444,
+        "max": 426444,
+        "total": 1
+    },
+    "EXECUTIVE VICE CHANCELLOR AND CHIEF FINANCIAL OFFICER": {
+        "mean": 326047.96,
+        "median": 326047.96,
+        "min": 326047.96,
+        "max": 326047.96,
+        "total": 1
+    },
+    "EXECUTIVE VICE CHANCELLOR AND CHIEF ACADEMIC OFFICER": {
+        "mean": 302944,
+        "median": 302944,
+        "min": 302944,
+        "max": 302944,
+        "total": 1
+    },
+    "VICE CHANCELLOR, HUMAN RESOURCES": {
+        "mean": 273144.04,
+        "median": 273144.04,
+        "min": 273144.04,
+        "max": 273144.04,
+        "total": 1
+    },
+    "VICE CHANCELLOR, UNIVERSITY RELATIONS AND ADVANCEMENT": {
+        "mean": 253360,
+        "median": 253360,
+        "min": 253360,
+        "max": 253360,
+        "total": 1
+    },
+    "ADMINISTRATOR IV": {
+        "mean": 154191.895927,
+        "median": 158820,
+        "min": 4730,
+        "max": 403757.88,
+        "total": 523
+    },
+    "ADMINISTRATOR III": {
+        "mean": 108651.863288,
+        "median": 115038,
+        "min": 435.61,
+        "max": 243046,
+        "total": 1098
+    },
+    "ADMINISTRATOR II": {
+        "mean": 79880.022736,
+        "median": 82989.09,
+        "min": 177.07,
+        "max": 152144.2,
+        "total": 1557
+    },
+    "ANALYST\/PROGRAMMER -12": {
+        "mean": 71599.5357187,
+        "median": 75695,
+        "min": 52.5,
+        "max": 117912,
+        "total": 647
+    },
+    "OPERATING SYSTEMS ANALYST -12": {
+        "mean": 71352.8918889,
+        "median": 72252,
+        "min": 4847.36,
+        "max": 109161,
+        "total": 270
+    },
+    "INFORMATION TECHNOLOGY CONSULTANT -12": {
+        "mean": 55367.2227909,
+        "median": 56376,
+        "min": 133.64,
+        "max": 114661,
+        "total": 1143
+    },
+    "NETWORK ANALYST -12": {
+        "mean": 70304.7665,
+        "median": 71486,
+        "min": 10033.33,
+        "max": 103662,
+        "total": 160
+    },
+    "CONFIDENTIAL ADMINISTRATIVE SUPPORT -12 MONTH": {
+        "mean": 57650.2751905,
+        "median": 58962,
+        "min": 1971.48,
+        "max": 125843.12,
+        "total": 210
+    },
+    "ADMINISTRATIVE ANALYST\/SPECIALIST -12 MONTH": {
+        "mean": 48680.5102609,
+        "median": 50115,
+        "min": 81.99,
+        "max": 104504.4,
+        "total": 2568
+    },
+    "CONFIDENTIAL TECHNICAL SUPPORT -12 MONTH": {
+        "mean": 60886.4544444,
+        "median": 65132,
+        "min": 18002,
+        "max": 95100,
+        "total": 18
+    },
+    "ADMINISTRATOR I": {
+        "mean": 57770.2948785,
+        "median": 60474,
+        "min": 1030.36,
+        "max": 99010.8,
+        "total": 576
+    },
+    "ACCOUNTANT II": {
+        "mean": 53622.8418367,
+        "median": 55071,
+        "min": 9152,
+        "max": 84071.43,
+        "total": 98
+    },
+    "FACILITIES MAINTENANCE MECHANIC": {
+        "mean": 51995.2341791,
+        "median": 55131.23,
+        "min": 2191.5,
+        "max": 75480.34,
+        "total": 134
+    },
+    "PARALEGAL": {
+        "mean": 59572,
+        "median": 60000,
+        "min": 58716,
+        "max": 60000,
+        "total": 3
+    },
+    "CONFIDENTIAL OFFICE SUPPORT -12 MONTH": {
+        "mean": 43372.3997744,
+        "median": 44869.2,
+        "min": 363.64,
+        "max": 69589.53,
+        "total": 133
+    },
+    "ADMINISTRATIVE SUPPORT COORDINATOR -12 MONTH": {
+        "mean": 34501.3549563,
+        "median": 37357.1,
+        "min": 2.23,
+        "max": 72483.84,
+        "total": 2633
+    },
+    "PUBLIC AFFAIRS\/COMMUNICATION SPECIALIST -12 MONTH": {
+        "mean": 39620.2130328,
+        "median": 43393.85,
+        "min": 30,
+        "max": 78685.71,
+        "total": 244
+    },
+    "ACCOUNTANT I": {
+        "mean": 44208.3326316,
+        "median": 46274.8,
+        "min": 406.28,
+        "max": 63009.33,
+        "total": 76
+    },
+    "GRAPHIC DESIGNER -12 MONTH": {
+        "mean": 40966.8054167,
+        "median": 48000,
+        "min": 247.73,
+        "max": 66024,
+        "total": 120
+    },
+    "ACCOUNTING TECHNICIAN III": {
+        "mean": 42100.9010127,
+        "median": 43257.82,
+        "min": 2392.85,
+        "max": 59170.39,
+        "total": 158
+    },
+    "PROPERTY CLERK I": {
+        "mean": 38861.2,
+        "median": 38952,
+        "min": 34399.2,
+        "max": 46128,
+        "total": 6
+    },
+    "COMMUNITY SERVICE SPECIALIST -12 MONTH": {
+        "mean": 26562.2573451,
+        "median": 32790.63,
+        "min": 0.02,
+        "max": 58130.16,
+        "total": 113
+    },
+    "ADMINISTRATIVE SUPPORT ASSISTANT -12 MONTH": {
+        "mean": 22521.5707102,
+        "median": 27120,
+        "min": 20.09,
+        "max": 46771.81,
+        "total": 1746
+    },
+    "REPROGRAPHICS SPECIALIST III": {
+        "mean": 36410.77,
+        "median": 36552,
+        "min": 12415.57,
+        "max": 52965.01,
+        "total": 23
+    },
+    "DRAFTING TECHNICIAN II": {
+        "mean": 46281.501,
+        "median": 50664,
+        "min": 17993.86,
+        "max": 62400,
+        "total": 10
+    },
+    "TRUSTEE - THE CALIFORNIA STATE UNIVERSITY": {
+        "mean": 2527.77777778,
+        "median": 2700,
+        "min": 300,
+        "max": 6000,
+        "total": 18
+    },
+    "ACCOUNTING TECHNICIAN II": {
+        "mean": 35290.5036697,
+        "median": 37400.13,
+        "min": 1367.18,
+        "max": 53429.25,
+        "total": 218
     },
     "EXECUTIVE DIRECTOR, CITIZENS REDISTRICTING COMMISSION": {
         "mean": 115505.96,
@@ -8819,6 +9043,2428 @@
         "max": 31422.48,
         "total": 2
     },
+    "PHYSICIAN": {
+        "mean": 85971.7275,
+        "median": 108816.22,
+        "min": 238.89,
+        "max": 192022.8,
+        "total": 132
+    },
+    "INSTRUCTIONAL FACULTY - ACADEMIC YEAR": {
+        "mean": 71423.0675864,
+        "median": 72237,
+        "min": 3.83,
+        "max": 201357.92,
+        "total": 9923
+    },
+    "DEPARTMENT CHAIR - ACADEMIC YEAR": {
+        "mean": 60817.1654545,
+        "median": 61278,
+        "min": 72.34,
+        "max": 162348.55,
+        "total": 473
+    },
+    "DEPARTMENT CHAIR - 12 MONTH": {
+        "mean": 72075.1427018,
+        "median": 73259.36,
+        "min": 194.52,
+        "max": 176964,
+        "total": 570
+    },
+    "LIBRARIAN - 12 MONTH": {
+        "mean": 62819.0897668,
+        "median": 65616,
+        "min": 701.04,
+        "max": 128193.08,
+        "total": 343
+    },
+    "PHARMACIST I": {
+        "mean": 59072.4009677,
+        "median": 60116.35,
+        "min": 1069.68,
+        "max": 118807.23,
+        "total": 31
+    },
+    "LECTURER - ACADEMIC YEAR": {
+        "mean": 16571.4214471,
+        "median": 9943.2,
+        "min": 57.24,
+        "max": 110868,
+        "total": 18326
+    },
+    "STUDENT SERVICES PROFESSIONAL, ACADEMIC-RELATED III-AY": {
+        "mean": 75271.422069,
+        "median": 80508,
+        "min": 623.04,
+        "max": 97104,
+        "total": 29
+    },
+    "CORPORAL": {
+        "mean": 76858.8470513,
+        "median": 77548.22,
+        "min": 527.84,
+        "max": 137712.79,
+        "total": 78
+    },
+    "LECTURER - 12 MONTH": {
+        "mean": 16028.2352695,
+        "median": 3966,
+        "min": 49.71,
+        "max": 150072,
+        "total": 835
+    },
+    "SERGEANT": {
+        "mean": 89019.3873077,
+        "median": 87363.29,
+        "min": 167.53,
+        "max": 153859.88,
+        "total": 104
+    },
+    "COACH - 10 MONTH": {
+        "mean": 60710.66,
+        "median": 60000,
+        "min": 20013,
+        "max": 86312,
+        "total": 15
+    },
+    "BUILDING SERVICE ENGINEER": {
+        "mean": 58108.0026829,
+        "median": 62428.99,
+        "min": 3698.59,
+        "max": 86049.34,
+        "total": 123
+    },
+    "PAINTER": {
+        "mean": 38350.9426667,
+        "median": 44169.56,
+        "min": 3.55,
+        "max": 84540.92,
+        "total": 135
+    },
+    "LEAD PLUMBER": {
+        "mean": 73552.4966667,
+        "median": 71411.89,
+        "min": 65626.09,
+        "max": 92972.89,
+        "total": 12
+    },
+    "POLICE OFFICER": {
+        "mean": 59889.8093651,
+        "median": 64710.54,
+        "min": 157.37,
+        "max": 101233.9,
+        "total": 189
+    },
+    "LEAD CARPENTER": {
+        "mean": 65601.665,
+        "median": 62191.45,
+        "min": 57714.25,
+        "max": 81191.56,
+        "total": 10
+    },
+    "EQUIPMENT SYSTEMS SPECIALIST -12": {
+        "mean": 43747.5969863,
+        "median": 47064,
+        "min": 360.58,
+        "max": 78901.93,
+        "total": 146
+    },
+    "COACHING SPECIALIST - ACADEMIC YEAR": {
+        "mean": 42841.2631579,
+        "median": 48588,
+        "min": 1512,
+        "max": 73620,
+        "total": 38
+    },
+    "INSTRUCTIONAL FACULTY - 12 MONTH": {
+        "mean": 53867.0203367,
+        "median": 43310.4,
+        "min": 1.14,
+        "max": 148332,
+        "total": 297
+    },
+    "STUDENT SERVICES PROFESSIONAL, ACADEMIC-RELATED II-AY": {
+        "mean": 51127.325,
+        "median": 61029,
+        "min": 14535,
+        "max": 73344,
+        "total": 8
+    },
+    "REGISTERED NURSE II": {
+        "mean": 47121.2627778,
+        "median": 53262,
+        "min": 2063.8,
+        "max": 72204,
+        "total": 36
+    },
+    "ASSOCIATE, ACADEMIC AND INSTITUTIONAL STUDIES I": {
+        "mean": 42577.7581818,
+        "median": 46540.8,
+        "min": 481.76,
+        "max": 74916,
+        "total": 33
+    },
+    "STUDENT SERVICES PROFESSIONAL IV": {
+        "mean": 55895.0022835,
+        "median": 57860.8,
+        "min": 260.86,
+        "max": 77340.2,
+        "total": 254
+    },
+    "COACH - ACADEMIC YEAR": {
+        "mean": 41028.0763043,
+        "median": 57084,
+        "min": 1531,
+        "max": 87804,
+        "total": 46
+    },
+    "LEAD ELECTRICIAN": {
+        "mean": 77325.244375,
+        "median": 75621.1,
+        "min": 63866.21,
+        "max": 100983.31,
+        "total": 16
+    },
+    "AIR CONDITIONING\/REFRIGERATION MECHANIC": {
+        "mean": 64270.9280952,
+        "median": 66874.57,
+        "min": 5456,
+        "max": 94155.06,
+        "total": 42
+    },
+    "CLINICAL LABORATORY SCIENTIST II": {
+        "mean": 54462.4280952,
+        "median": 63788.18,
+        "min": 477.83,
+        "max": 76068,
+        "total": 21
+    },
+    "METAL WORKER I": {
+        "mean": 46858.0833333,
+        "median": 61778.93,
+        "min": 1630.98,
+        "max": 67321.35,
+        "total": 6
+    },
+    "INSTRUCTIONAL SUPPORT ASSISTANT III": {
+        "mean": 34899.7842857,
+        "median": 39285,
+        "min": 1638.52,
+        "max": 60259.35,
+        "total": 35
+    },
+    "EQUIPMENT TECHNICIAN II, ELECTRO-MECHANICAL": {
+        "mean": 49414.8062162,
+        "median": 52311.62,
+        "min": 2614.09,
+        "max": 60000,
+        "total": 37
+    },
+    "STUDENT SERVICES PROFESSIONAL III": {
+        "mean": 45603.6143732,
+        "median": 48618.8,
+        "min": 172.6,
+        "max": 77383.97,
+        "total": 702
+    },
+    "LIBRARY SERVICES SPECIALIST IV": {
+        "mean": 48918.2977922,
+        "median": 51805.38,
+        "min": 5930.95,
+        "max": 68400.24,
+        "total": 77
+    },
+    "EXTENDED EDUCATION SPECIALIST II": {
+        "mean": 54863.7036842,
+        "median": 58390.8,
+        "min": 9315.25,
+        "max": 73145,
+        "total": 57
+    },
+    "LIBRARIAN - 10 MONTH": {
+        "mean": 59713.5638235,
+        "median": 61956,
+        "min": 4693,
+        "max": 106956,
+        "total": 34
+    },
+    "ATHLETIC TRAINER II - 12 MONTH": {
+        "mean": 40169.9395455,
+        "median": 46968,
+        "min": 4212,
+        "max": 56778,
+        "total": 22
+    },
+    "AUTOMOTIVE\/EQUIPMENT MECHANIC": {
+        "mean": 49229.2742857,
+        "median": 55436.4,
+        "min": 2667.95,
+        "max": 70401.01,
+        "total": 28
+    },
+    "POLICE DISPATCHER -12 MONTH": {
+        "mean": 37654.9077848,
+        "median": 45026.06,
+        "min": 300,
+        "max": 96000.3,
+        "total": 158
+    },
+    "STUDENT SERVICES PROFESSIONAL II": {
+        "mean": 37239.1681837,
+        "median": 42846.8,
+        "min": 50.75,
+        "max": 59874.8,
+        "total": 947
+    },
+    "INSTRUCTIONAL FACULTY, SPECIAL PROGRAMS -FOR CREDITIF SP PRGMS-CREDIT": {
+        "mean": 10853.1248578,
+        "median": 6845,
+        "min": 110,
+        "max": 95616,
+        "total": 2180
+    },
+    "COACHING ASSISTANT - 12 MONTH": {
+        "mean": 27521.0911765,
+        "median": 25189.45,
+        "min": 144.77,
+        "max": 64020,
+        "total": 255
+    },
+    "RADIOLOGIC TECHNOLOGIST I": {
+        "mean": 16613.3516667,
+        "median": 8403.2,
+        "min": 151.9,
+        "max": 55007.56,
+        "total": 12
+    },
+    "INSTRUCTIONAL SUPPORT TECHNICIAN I": {
+        "mean": 38333.9178049,
+        "median": 42283.95,
+        "min": 77.88,
+        "max": 61902.24,
+        "total": 82
+    },
+    "COACHING ASSISTANT - ACADEMIC YEAR": {
+        "mean": 18438.0899038,
+        "median": 16598.4,
+        "min": 601.38,
+        "max": 52092,
+        "total": 104
+    },
+    "INFORMATION TECHNOLOGY CONSULTANT -11\/12": {
+        "mean": 47286.49,
+        "median": 50931,
+        "min": 8946.29,
+        "max": 79896,
+        "total": 16
+    },
+    "SHIPPING AND RECEIVING ASSISTANT I": {
+        "mean": 40225.4035714,
+        "median": 41844,
+        "min": 31258.8,
+        "max": 50537.23,
+        "total": 14
+    },
+    "INTERPRETER I": {
+        "mean": 20517.3616667,
+        "median": 12350,
+        "min": 210,
+        "max": 53892,
+        "total": 18
+    },
+    "PERFORMING ARTS TECHNICIAN -12 MONTH": {
+        "mean": 17419.5920179,
+        "median": 4789.95,
+        "min": 36.7,
+        "max": 70339.32,
+        "total": 223
+    },
+    "RESEARCH TECHNICIAN I": {
+        "mean": 11073.8197531,
+        "median": 4806.24,
+        "min": 17.67,
+        "max": 49389.24,
+        "total": 162
+    },
+    "PRESIDENTIAL AIDE": {
+        "mean": 60273.7866667,
+        "median": 62712,
+        "min": 33141.23,
+        "max": 80616,
+        "total": 15
+    },
+    "EQUIPMENT TECHNICIAN III, SPECIALIZED EQUIPMENT": {
+        "mean": 58155.2375676,
+        "median": 58728,
+        "min": 22537.8,
+        "max": 82344.6,
+        "total": 37
+    },
+    "COLLECTIONS REPRESENTATIVE II": {
+        "mean": 40824.9663636,
+        "median": 39984,
+        "min": 33272.36,
+        "max": 49444.86,
+        "total": 22
+    },
+    "LIBRARY SERVICES SPECIALIST II": {
+        "mean": 36625.2135714,
+        "median": 38220,
+        "min": 1976.81,
+        "max": 55054.99,
+        "total": 168
+    },
+    "BUYER II - LEAD": {
+        "mean": 46900.5,
+        "median": 47256,
+        "min": 46545,
+        "max": 47256,
+        "total": 2
+    },
+    "INSTRUCTIONAL SUPPORT TECHNICIAN II": {
+        "mean": 41907.8199474,
+        "median": 47112,
+        "min": 1048.55,
+        "max": 63934.8,
+        "total": 190
+    },
+    "BUYER II": {
+        "mean": 47571.8986111,
+        "median": 49048.09,
+        "min": 10403.86,
+        "max": 56796,
+        "total": 36
+    },
+    "LIGHT AUTOMOTIVE EQUIPMENT OPERATOR": {
+        "mean": 40417.1425581,
+        "median": 41456.61,
+        "min": 9615.9,
+        "max": 55490.52,
+        "total": 43
+    },
+    "COACHING SPECIALIST - 10 MONTH": {
+        "mean": 22526.8719048,
+        "median": 15000,
+        "min": 237.5,
+        "max": 62431,
+        "total": 21
+    },
+    "COACHING ASSISTANT - 10 MONTH": {
+        "mean": 24433.9601923,
+        "median": 25020,
+        "min": 136.22,
+        "max": 50028,
+        "total": 52
+    },
+    "LICENSED VOCATIONAL NURSE I": {
+        "mean": 30560.3826923,
+        "median": 35112,
+        "min": 115.38,
+        "max": 46414.98,
+        "total": 26
+    },
+    "EXTENDED EDUCATION SPECIALIST I": {
+        "mean": 43574.0505128,
+        "median": 47826.16,
+        "min": 7165.68,
+        "max": 73112.62,
+        "total": 39
+    },
+    "STUDENT SERVICES PROFESSIONAL I": {
+        "mean": 25913.9607951,
+        "median": 31489.69,
+        "min": 89,
+        "max": 53876.28,
+        "total": 327
+    },
+    "OPERATIONS SPECIALIST -12": {
+        "mean": 37911.3506557,
+        "median": 41376.7,
+        "min": 545.45,
+        "max": 78403.9,
+        "total": 61
+    },
+    "PAYROLL TECHNICIAN III": {
+        "mean": 46164.1392683,
+        "median": 46620,
+        "min": 4728,
+        "max": 58575.99,
+        "total": 41
+    },
+    "EVALUATOR II": {
+        "mean": 40045.5825,
+        "median": 40687.8,
+        "min": 181.68,
+        "max": 60652.78,
+        "total": 72
+    },
+    "MEDIA PRODUCTION SPECIALIST -12 MONTH": {
+        "mean": 42393.8281579,
+        "median": 50302.5,
+        "min": 106.5,
+        "max": 74400,
+        "total": 76
+    },
+    "ADMINISTRATIVE SUPPORT COORDINATOR -11\/12": {
+        "mean": 35643.3708333,
+        "median": 38040,
+        "min": 678.04,
+        "max": 49480.07,
+        "total": 84
+    },
+    "GARDENING SPECIALIST": {
+        "mean": 34074.6629508,
+        "median": 37052.52,
+        "min": 4695.25,
+        "max": 54075.74,
+        "total": 61
+    },
+    "CREDENTIAL ANALYST II": {
+        "mean": 45113.3192308,
+        "median": 45798.8,
+        "min": 4359.27,
+        "max": 65922.01,
+        "total": 39
+    },
+    "ACCOUNTING TECHNICIAN I": {
+        "mean": 28887.0927,
+        "median": 32817.08,
+        "min": 1013.15,
+        "max": 46250.2,
+        "total": 100
+    },
+    "HEALTH SERVICES ASSISTANT": {
+        "mean": 43625.959,
+        "median": 46668,
+        "min": 2980.06,
+        "max": 58650,
+        "total": 10
+    },
+    "STUDENT PERSONNEL TECHNICIAN, FINANCIAL AIDS": {
+        "mean": 35896.4908696,
+        "median": 37172.53,
+        "min": 117.23,
+        "max": 65934.73,
+        "total": 46
+    },
+    "CREDENTIAL ANALYST TRAINEE": {
+        "mean": 40867.16,
+        "median": 40867.16,
+        "min": 40867.16,
+        "max": 40867.16,
+        "total": 1
+    },
+    "DESKTOP PUBLISHING\/GRAPHIC SPECIALIST -12 MONTH": {
+        "mean": 31077.7268421,
+        "median": 34024.16,
+        "min": 2183.27,
+        "max": 50436,
+        "total": 19
+    },
+    "EVALUATOR I": {
+        "mean": 33698.5579528,
+        "median": 36127.32,
+        "min": 201.75,
+        "max": 48008.4,
+        "total": 127
+    },
+    "PAYROLL TECHNICIAN I": {
+        "mean": 26114.626,
+        "median": 27510.82,
+        "min": 2113.37,
+        "max": 43824,
+        "total": 15
+    },
+    "NURSE PRACTITIONER": {
+        "mean": 61435.5702817,
+        "median": 72943.18,
+        "min": 643.72,
+        "max": 122049.42,
+        "total": 71
+    },
+    "PAYROLL TECHNICIAN II": {
+        "mean": 37545.3309859,
+        "median": 40560,
+        "min": 264.75,
+        "max": 52860.84,
+        "total": 71
+    },
+    "EVALUATOR TRAINEE": {
+        "mean": 29008.5,
+        "median": 36504.22,
+        "min": 4355.09,
+        "max": 38892.14,
+        "total": 6
+    },
+    "HEALTH INFORMATION TECHNICIAN": {
+        "mean": 41365.0564286,
+        "median": 39684,
+        "min": 31158.33,
+        "max": 50568,
+        "total": 14
+    },
+    "GROUNDSWORKER": {
+        "mean": 29213.1640506,
+        "median": 33615.34,
+        "min": 23.37,
+        "max": 57240,
+        "total": 237
+    },
+    "INFORMATION TECHNOLOGY CONSULTANT -10\/12": {
+        "mean": 33055.755,
+        "median": 30680.45,
+        "min": 7606.45,
+        "max": 60576,
+        "total": 8
+    },
+    "REPROGRAPHICS SPECIALIST II": {
+        "mean": 30378.4966667,
+        "median": 32563.59,
+        "min": 16961.34,
+        "max": 41400,
+        "total": 9
+    },
+    "MEDICAL ASSISTANT": {
+        "mean": 26697.9356,
+        "median": 30827.95,
+        "min": 97.68,
+        "max": 42204,
+        "total": 75
+    },
+    "COLLECTIONS REPRESENTATIVE I": {
+        "mean": 33422.445,
+        "median": 35050.64,
+        "min": 31794.25,
+        "max": 35050.64,
+        "total": 2
+    },
+    "RESEARCH TECHNICIAN III": {
+        "mean": 53206.3632353,
+        "median": 57976,
+        "min": 4858,
+        "max": 84197,
+        "total": 34
+    },
+    "INSTRUCTIONAL FACULTY, EXTENSION NON-CREDIT": {
+        "mean": 6943.46010823,
+        "median": 2865,
+        "min": 20,
+        "max": 108825.66,
+        "total": 1848
+    },
+    "CLINICAL ASSISTANT": {
+        "mean": 24109.2916667,
+        "median": 30994,
+        "min": 42.15,
+        "max": 42552,
+        "total": 30
+    },
+    "PARKING OFFICER -12 MONTH": {
+        "mean": 29642.9989565,
+        "median": 34376.7,
+        "min": 340.08,
+        "max": 62203.01,
+        "total": 115
+    },
+    "ADMINISTRATIVE SUPPORT COORDINATOR -10\/12": {
+        "mean": 26734.2591837,
+        "median": 29123.78,
+        "min": 36.41,
+        "max": 49735.59,
+        "total": 49
+    },
+    "ADMINISTRATIVE SUPPORT ASSISTANT -11\/12": {
+        "mean": 26502.9641935,
+        "median": 28811.33,
+        "min": 9437.76,
+        "max": 37457.94,
+        "total": 31
+    },
+    "MAIL CLERK": {
+        "mean": 26796.96075,
+        "median": 29743.56,
+        "min": 3207.14,
+        "max": 40692,
+        "total": 40
+    },
+    "LIBRARY ASSISTANT II": {
+        "mean": 16445.26,
+        "median": 28926.52,
+        "min": 3964,
+        "max": 28926.52,
+        "total": 2
+    },
+    "INSTRUCTIONAL SUPPORT TECHNICIAN III": {
+        "mean": 52960.5165942,
+        "median": 55966,
+        "min": 444,
+        "max": 91375.4,
+        "total": 138
+    },
+    "ADMINISTRATIVE SUPPORT ASSISTANT -10\/12": {
+        "mean": 21080.7471429,
+        "median": 25056,
+        "min": 1792,
+        "max": 36837.79,
+        "total": 77
+    },
+    "ATHLETIC TRAINER I - 12 MONTH": {
+        "mean": 26602.30125,
+        "median": 24885.3,
+        "min": 4344.08,
+        "max": 52008,
+        "total": 16
+    },
+    "STUDENT SERVICES PROFESSIONAL, ACADEMIC-RELATED I-AY": {
+        "mean": 27314.5537662,
+        "median": 24858,
+        "min": 869.88,
+        "max": 67976.65,
+        "total": 77
+    },
+    "STUDENT SERVICES PROFESSIONAL II - 10 MONTH": {
+        "mean": 28414.78125,
+        "median": 35548.16,
+        "min": 8004.29,
+        "max": 46146.8,
+        "total": 24
+    },
+    "CASUAL WORKER": {
+        "mean": 3329.90462598,
+        "median": 863.09,
+        "min": 6.5,
+        "max": 114389.09,
+        "total": 2032
+    },
+    "RESEARCH FELLOW": {
+        "mean": 15785.6068586,
+        "median": 11912.73,
+        "min": 263.98,
+        "max": 74004,
+        "total": 191
+    },
+    "STUDENT SERVICES PROFESSIONAL I - 10 MONTH": {
+        "mean": 17304.3436364,
+        "median": 11965.36,
+        "min": 2637,
+        "max": 33651.29,
+        "total": 11
+    },
+    "MAINTENANCE AND LABORER TRAINEE": {
+        "mean": 9719.855,
+        "median": 16868.8,
+        "min": 2570.91,
+        "max": 16868.8,
+        "total": 2
+    },
+    "INSTRUCTIONAL FACULTY, SUMMER SESSION - STATE SUPPORT": {
+        "mean": 8017.47193827,
+        "median": 6861.88,
+        "min": 802.74,
+        "max": 30880.48,
+        "total": 810
+    },
+    "READER": {
+        "mean": 2547.45285714,
+        "median": 750,
+        "min": 30,
+        "max": 21287.5,
+        "total": 63
+    },
+    "HOURLY INTRPRTR\/REALTIME CAPTIONER\/COMPUTER AIDED TRANSCRIBER": {
+        "mean": 10265.9735753,
+        "median": 5810.15,
+        "min": 0.63,
+        "max": 59473.98,
+        "total": 372
+    },
+    "COACHING SPECIALIST - 12 MONTH": {
+        "mean": 54281.658932,
+        "median": 60024,
+        "min": 3840.34,
+        "max": 100156.19,
+        "total": 103
+    },
+    "STUDENT SERVICES PROFESSIONAL, ACADEMIC-RELATED III-12 MONTH": {
+        "mean": 81900.7295238,
+        "median": 85958.4,
+        "min": 840.8,
+        "max": 136170.65,
+        "total": 42
+    },
+    "MUSIC STUDIO INSTRUCTIONAL FACULTY": {
+        "mean": 2721.35270833,
+        "median": 1560,
+        "min": 156,
+        "max": 15526.2,
+        "total": 96
+    },
+    "HEAVY EQUIPMENT OPERATOR\/BUS DRIVER": {
+        "mean": 16345.5106522,
+        "median": 5610.22,
+        "min": 42.25,
+        "max": 57924.7,
+        "total": 46
+    },
+    "POLICE OFFICER INTERMITTENT-NONREPRESENTED": {
+        "mean": 5977.36538462,
+        "median": 1966.14,
+        "min": 476.1,
+        "max": 18464.88,
+        "total": 13
+    },
+    "STUDENT SERVICES PROFESSIONAL, ACADEMIC-RELATED I - 12 MONTH": {
+        "mean": 31366.4040299,
+        "median": 28636.36,
+        "min": 1621.7,
+        "max": 71540,
+        "total": 67
+    },
+    "INSTRUCTIONAL FACULTY, EXTENSION -FOR CREDIT": {
+        "mean": 5536.8100495,
+        "median": 3141.5,
+        "min": 94.2,
+        "max": 70723.22,
+        "total": 202
+    },
+    "HELPER\/AID": {
+        "mean": 4492.00118421,
+        "median": 2120.4,
+        "min": 9,
+        "max": 33696,
+        "total": 152
+    },
+    "DRAFTING TECHNICIAN I": {
+        "mean": 28256.1975,
+        "median": 37044,
+        "min": 2102.4,
+        "max": 37795.84,
+        "total": 4
+    },
+    "SUBSTITUTE INSTRUCTIONAL FACULTY": {
+        "mean": 1335.41760656,
+        "median": 504.17,
+        "min": 42,
+        "max": 21463,
+        "total": 305
+    },
+    "CLERICAL ASSISTANT III": {
+        "mean": 1668.5,
+        "median": 1668.5,
+        "min": 1668.5,
+        "max": 1668.5,
+        "total": 1
+    },
+    "STUDENT SERVICES PROFESSIONAL, ACADEMIC-RELATED II - 12 MONTH": {
+        "mean": 56262.7357143,
+        "median": 65628,
+        "min": 811,
+        "max": 95700,
+        "total": 35
+    },
+    "INSTRUCTIONAL SUPPORT ASSISTANT I": {
+        "mean": 10920.6816,
+        "median": 5842.9,
+        "min": 94.07,
+        "max": 37253.12,
+        "total": 75
+    },
+    "CMA INSTRUCTIONAL FACULTY -CRUISE-AY": {
+        "mean": 87044.2666667,
+        "median": 86558,
+        "min": 58778.4,
+        "max": 118092,
+        "total": 6
+    },
+    "MARITIME VOCATIONAL INSTRUCTOR IV -CRUISE-AY": {
+        "mean": 87015,
+        "median": 86340,
+        "min": 83784,
+        "max": 92256,
+        "total": 4
+    },
+    "MARITIME VOCATIONAL LECTURER -CRUISE -AY": {
+        "mean": 61397.215,
+        "median": 73800,
+        "min": 21896.86,
+        "max": 79944,
+        "total": 4
+    },
+    "MARITIME VOCATIONAL INSTRUCTOR -CRUISE -AY": {
+        "mean": 70657.92,
+        "median": 68436,
+        "min": 66024,
+        "max": 77052,
+        "total": 5
+    },
+    "CMA CHIEF ENGINEER": {
+        "mean": 77033.97,
+        "median": 77033.97,
+        "min": 77033.97,
+        "max": 77033.97,
+        "total": 1
+    },
+    "ADMINISTRATOR II - ACADEMIC YEAR": {
+        "mean": 70560,
+        "median": 70560,
+        "min": 70560,
+        "max": 70560,
+        "total": 1
+    },
+    "SENIOR BUDGET ANALYST": {
+        "mean": 66036.012,
+        "median": 67052.32,
+        "min": 841.05,
+        "max": 101550.46,
+        "total": 50
+    },
+    "MARITIME VOCATIONAL INSTRUCTOR -NONCRUISE -AY": {
+        "mean": 68324,
+        "median": 68324,
+        "min": 68324,
+        "max": 68324,
+        "total": 1
+    },
+    "CMA STATIONARY ENGINEER": {
+        "mean": 53040.4,
+        "median": 67581.8,
+        "min": 38499,
+        "max": 67581.8,
+        "total": 2
+    },
+    "MARITIME VOCATIONAL LECTURER -12 MONTH": {
+        "mean": 18698.14875,
+        "median": 15715.37,
+        "min": 787.4,
+        "max": 66864,
+        "total": 8
+    },
+    "CMA CARPENTER I": {
+        "mean": 64144.71,
+        "median": 64144.71,
+        "min": 64144.71,
+        "max": 64144.71,
+        "total": 1
+    },
+    "CMA ELECTRICIAN I": {
+        "mean": 63264,
+        "median": 63264,
+        "min": 63264,
+        "max": 63264,
+        "total": 1
+    },
+    "EQUIPMENT TECHNICIAN II, SPECIALIZED EQUIPMENT": {
+        "mean": 42936.538,
+        "median": 47172,
+        "min": 6789.96,
+        "max": 65414.56,
+        "total": 15
+    },
+    "CMA PAINTER I": {
+        "mean": 59558.55,
+        "median": 59558.55,
+        "min": 59558.55,
+        "max": 59558.55,
+        "total": 1
+    },
+    "MARITIME VOCATIONAL LECTURER -NONCRUISE -AY": {
+        "mean": 49974.8333333,
+        "median": 51036,
+        "min": 41338.5,
+        "max": 57550,
+        "total": 3
+    },
+    "COOK II": {
+        "mean": 27991.9786667,
+        "median": 37746.13,
+        "min": 907.54,
+        "max": 54930.81,
+        "total": 15
+    },
+    "CMA LEAD GROUNDSKEEPER": {
+        "mean": 44710.46,
+        "median": 44710.46,
+        "min": 44710.46,
+        "max": 44710.46,
+        "total": 1
+    },
+    "CMA MATERIALS & STORES SPECIALIST": {
+        "mean": 43336.97,
+        "median": 43336.97,
+        "min": 43336.97,
+        "max": 43336.97,
+        "total": 1
+    },
+    "INSTRUCTIONAL SUPPORT ASSISTANT II": {
+        "mean": 21385.6481707,
+        "median": 20704.53,
+        "min": 43.15,
+        "max": 43584,
+        "total": 82
+    },
+    "EQUIPMENT TECHNICIAN I, SPECIALIZED EQUIPMENT": {
+        "mean": 20835.763125,
+        "median": 16422.15,
+        "min": 876.15,
+        "max": 53057.7,
+        "total": 16
+    },
+    "CMA GROUNDSKEEPER": {
+        "mean": 39415.07,
+        "median": 39036,
+        "min": 38736,
+        "max": 40473.21,
+        "total": 3
+    },
+    "FOOD SERVICE WORKER II": {
+        "mean": 31608.2042857,
+        "median": 30792.81,
+        "min": 27468.04,
+        "max": 38884.73,
+        "total": 7
+    },
+    "CMA DEPARTMENT CHAIR -CRUISE -AY": {
+        "mean": 21608.8,
+        "median": 37461.6,
+        "min": 5756,
+        "max": 37461.6,
+        "total": 2
+    },
+    "COOK I": {
+        "mean": 30867.62,
+        "median": 29892,
+        "min": 29551.34,
+        "max": 34740.1,
+        "total": 6
+    },
+    "FOOD SERVICE WORKER I": {
+        "mean": 18249.6494444,
+        "median": 22304.25,
+        "min": 2101.08,
+        "max": 32351.15,
+        "total": 18
+    },
+    "CMA MAINTENANCE MECHANIC": {
+        "mean": 20630.02,
+        "median": 20630.02,
+        "min": 20630.02,
+        "max": 20630.02,
+        "total": 1
+    },
+    "CMA DEPARTMENT CHAIR -2ND CRUISE- AY": {
+        "mean": 6021.6,
+        "median": 6021.6,
+        "min": 6021.6,
+        "max": 6021.6,
+        "total": 1
+    },
+    "HEALTH EDUCATOR": {
+        "mean": 42362.0434146,
+        "median": 48710.3,
+        "min": 2576.41,
+        "max": 71496,
+        "total": 41
+    },
+    "DEMONSTRATION INSTRUCTIONAL FACULTY": {
+        "mean": 1588.88888889,
+        "median": 1300,
+        "min": 100,
+        "max": 5400,
+        "total": 9
+    },
+    "REGISTERED DIETITIAN": {
+        "mean": 41580.0617647,
+        "median": 50052.95,
+        "min": 465.91,
+        "max": 65628,
+        "total": 34
+    },
+    "RESIDENT DIRECTOR, INTERNATIONAL PROGRAMS - 12 MONTH": {
+        "mean": 107922.892,
+        "median": 114646.82,
+        "min": 75072.64,
+        "max": 122868,
+        "total": 5
+    },
+    "SUPERVISING ELECTRICIAN": {
+        "mean": 72686.51,
+        "median": 72603.04,
+        "min": 22409.49,
+        "max": 108496.25,
+        "total": 19
+    },
+    "SUPERVISING BUILDING SERVICE ENGINEER": {
+        "mean": 76527.4669697,
+        "median": 75937.57,
+        "min": 4264.68,
+        "max": 106496.98,
+        "total": 33
+    },
+    "LEAD AUTOMOTIVE\/EQUIPMENT MECHANIC": {
+        "mean": 62004.0138462,
+        "median": 62443.44,
+        "min": 22560.39,
+        "max": 89666.62,
+        "total": 13
+    },
+    "ELECTRICIAN": {
+        "mean": 58819.0839796,
+        "median": 61037.92,
+        "min": 8756.06,
+        "max": 104204.32,
+        "total": 98
+    },
+    "FACILITIES PROJECT SUPERVISOR": {
+        "mean": 74654.4816667,
+        "median": 72486.83,
+        "min": 62700,
+        "max": 114106.54,
+        "total": 36
+    },
+    "SUPERVISING CARPENTER": {
+        "mean": 68874.1542857,
+        "median": 68427.8,
+        "min": 250,
+        "max": 118270.72,
+        "total": 14
+    },
+    "FACILITIES CONTROL SPECIALIST": {
+        "mean": 71793.7610714,
+        "median": 70676.15,
+        "min": 58206.72,
+        "max": 92057.04,
+        "total": 28
+    },
+    "PLUMBER": {
+        "mean": 59678.0982716,
+        "median": 62512.57,
+        "min": 389.67,
+        "max": 88118.36,
+        "total": 81
+    },
+    "SUPERVISING LOCKSMITH": {
+        "mean": 68295.7514286,
+        "median": 70392.04,
+        "min": 61112,
+        "max": 71770.98,
+        "total": 7
+    },
+    "FACILITIES WORKER II": {
+        "mean": 45372.8330588,
+        "median": 48756,
+        "min": 4287.5,
+        "max": 65518.94,
+        "total": 85
+    },
+    "BUYER III - LEAD": {
+        "mean": 59021.1766667,
+        "median": 60780,
+        "min": 27650.2,
+        "max": 93939.78,
+        "total": 15
+    },
+    "CARPENTER": {
+        "mean": 52179.4578571,
+        "median": 58464.42,
+        "min": 11067.53,
+        "max": 75542.78,
+        "total": 56
+    },
+    "FACILITIES WORKER I": {
+        "mean": 36322.2803571,
+        "median": 43582.88,
+        "min": 327.28,
+        "max": 55406.63,
+        "total": 56
+    },
+    "IRRIGATION SPECIALIST": {
+        "mean": 41840.1492593,
+        "median": 41327.32,
+        "min": 9603.08,
+        "max": 63964.6,
+        "total": 27
+    },
+    "LOCKSMITH": {
+        "mean": 56451.8240909,
+        "median": 57816,
+        "min": 5000,
+        "max": 82167.48,
+        "total": 44
+    },
+    "MASON": {
+        "mean": 47564.7625,
+        "median": 54537.33,
+        "min": 12057.14,
+        "max": 60373.22,
+        "total": 8
+    },
+    "VISITING FACULTY - ACADEMIC YEAR": {
+        "mean": 27407.263125,
+        "median": 15252,
+        "min": 7512.21,
+        "max": 71253,
+        "total": 16
+    },
+    "SUPERVISING PLUMBER": {
+        "mean": 79633.5884615,
+        "median": 78334.16,
+        "min": 46410.26,
+        "max": 116831.95,
+        "total": 13
+    },
+    "LIBRARY SERVICES SPECIALIST III": {
+        "mean": 43501.447305,
+        "median": 44891.01,
+        "min": 9368.66,
+        "max": 62256.84,
+        "total": 141
+    },
+    "LEAD GROUNDSWORKER": {
+        "mean": 45625.0709615,
+        "median": 48121.53,
+        "min": 7668.38,
+        "max": 62566.44,
+        "total": 52
+    },
+    "MECHANICS HELPER": {
+        "mean": 38299.926,
+        "median": 45150.96,
+        "min": 7154,
+        "max": 48417.92,
+        "total": 5
+    },
+    "MAIL SERVICES SUPERVISOR I": {
+        "mean": 39282.3533333,
+        "median": 38628,
+        "min": 33028.91,
+        "max": 47604,
+        "total": 9
+    },
+    "STUDENT SERVICES PROFESSIONAL III - 10 MONTH": {
+        "mean": 35673.505,
+        "median": 43194.8,
+        "min": 14464.64,
+        "max": 49950.8,
+        "total": 8
+    },
+    "RESEARCH TECHNICIAN II": {
+        "mean": 28729.7095833,
+        "median": 35865.27,
+        "min": 262.2,
+        "max": 61272,
+        "total": 48
+    },
+    "CREDENTIAL ANALYST I": {
+        "mean": 35446.2275,
+        "median": 40594.63,
+        "min": 4051,
+        "max": 44645.28,
+        "total": 12
+    },
+    "STOREKEEPER I": {
+        "mean": 34716.5173333,
+        "median": 37272,
+        "min": 15478.13,
+        "max": 45582.3,
+        "total": 15
+    },
+    "STUDENT SERVICES PROFESSIONAL III - ACADEMIC YEAR": {
+        "mean": 43869.405,
+        "median": 45018.8,
+        "min": 40534.69,
+        "max": 46377.13,
+        "total": 4
+    },
+    "LIBRARY SERVICES SPECIALIST I": {
+        "mean": 25842.794878,
+        "median": 32448,
+        "min": 1684.09,
+        "max": 42192,
+        "total": 41
+    },
+    "HEAD RESIDENT II": {
+        "mean": 36781.4618182,
+        "median": 39000,
+        "min": 23678.25,
+        "max": 45630.36,
+        "total": 11
+    },
+    "LABORER": {
+        "mean": 24928.1686301,
+        "median": 32523.45,
+        "min": 15.88,
+        "max": 62254.18,
+        "total": 219
+    },
+    "ADMINISTRATIVE ANALYST\/SPECIALIST -10\/12": {
+        "mean": 38334.412,
+        "median": 40044.73,
+        "min": 10333.33,
+        "max": 55944,
+        "total": 5
+    },
+    "DRAFTING AID": {
+        "mean": 16804.5333333,
+        "median": 13801.24,
+        "min": 2290.36,
+        "max": 34322,
+        "total": 3
+    },
+    "INSTRUCTIONAL FACULTY, SUMMER SESSION - EXTENSION": {
+        "mean": 9390.70140229,
+        "median": 7551.6,
+        "min": 181,
+        "max": 54766,
+        "total": 2881
+    },
+    "VISUAL RESOURCE SPECIALIST -12 MONTH": {
+        "mean": 40558.0525,
+        "median": 43366.16,
+        "min": 8548.26,
+        "max": 59544,
+        "total": 8
+    },
+    "GRANT-RELATED\/SPECIALLY FUNDED INSTRUCTIONAL FACULTY - 12MO": {
+        "mean": 113285.983333,
+        "median": 122148,
+        "min": 38832,
+        "max": 171852,
+        "total": 12
+    },
+    "GRANT-RELATED\/SPECIALLY FUNDED INSTRUCTIONAL FACULTY - AY": {
+        "mean": 116570.626667,
+        "median": 122880,
+        "min": 17348.04,
+        "max": 193224,
+        "total": 30
+    },
+    "HEAD COACH - ACADEMIC YEAR": {
+        "mean": 78269.2128571,
+        "median": 81636,
+        "min": 30033.6,
+        "max": 96260.38,
+        "total": 14
+    },
+    "PHARMACIST II": {
+        "mean": 97127.31,
+        "median": 102660,
+        "min": 14218.56,
+        "max": 126180.95,
+        "total": 25
+    },
+    "PHYSICIAN ASSISTANT": {
+        "mean": 57045.15125,
+        "median": 72531.96,
+        "min": 6336.98,
+        "max": 88572,
+        "total": 16
+    },
+    "VOCATIONAL INSTRUCTOR - 12 MONTH": {
+        "mean": 47387.85,
+        "median": 32379.6,
+        "min": 21415.95,
+        "max": 88368,
+        "total": 3
+    },
+    "EQUIPMENT TECHNICIAN III, ELECTRO-MECHANICAL": {
+        "mean": 58547.555625,
+        "median": 62136,
+        "min": 36200,
+        "max": 72960,
+        "total": 16
+    },
+    "BROADCAST ENGINEER -12 MONTH": {
+        "mean": 65570.4,
+        "median": 67740,
+        "min": 24161.38,
+        "max": 82248,
+        "total": 18
+    },
+    "INTERPRETER II": {
+        "mean": 31529.4542857,
+        "median": 32366.57,
+        "min": 4245.55,
+        "max": 65988,
+        "total": 14
+    },
+    "OPERATING ENGINEER": {
+        "mean": 62270.9057143,
+        "median": 64834.47,
+        "min": 1896.75,
+        "max": 82147.65,
+        "total": 14
+    },
+    "METAL WORKER II": {
+        "mean": 66652.8683333,
+        "median": 66844.37,
+        "min": 61128,
+        "max": 75654.01,
+        "total": 6
+    },
+    "FARM MAINTENANCE MECHANIC": {
+        "mean": 59891.2033333,
+        "median": 57819,
+        "min": 54881.28,
+        "max": 69290.66,
+        "total": 6
+    },
+    "LEAD LOCKSMITH": {
+        "mean": 68559.4507692,
+        "median": 65623.68,
+        "min": 57511.03,
+        "max": 96900.96,
+        "total": 13
+    },
+    "PLANNER\/ESTIMATOR\/SCHEDULER": {
+        "mean": 46744.63375,
+        "median": 54454.13,
+        "min": 7641.76,
+        "max": 69372,
+        "total": 8
+    },
+    "EQUIPMENT TECHNICIAN II, MECHANICAL": {
+        "mean": 39538.2558333,
+        "median": 49000,
+        "min": 898.18,
+        "max": 59508,
+        "total": 12
+    },
+    "SUPERVISING PAINTER": {
+        "mean": 58482.8784615,
+        "median": 62945.16,
+        "min": 321.7,
+        "max": 83155.71,
+        "total": 13
+    },
+    "NURSE PRACTITIONER - 10 MONTH": {
+        "mean": 61570.8183333,
+        "median": 74704.31,
+        "min": 42936,
+        "max": 77556,
+        "total": 6
+    },
+    "BUYER III": {
+        "mean": 55887.9511111,
+        "median": 54799.64,
+        "min": 39955.75,
+        "max": 67116,
+        "total": 27
+    },
+    "EQUIPMENT TECHNICIAN II, ELECTRONIC": {
+        "mean": 44431.2652174,
+        "median": 48036,
+        "min": 15823.32,
+        "max": 61753.92,
+        "total": 23
+    },
+    "PERFORMING ARTS TECHNICIAN -11\/12": {
+        "mean": 42159.6025,
+        "median": 45756,
+        "min": 32346,
+        "max": 50232,
+        "total": 4
+    },
+    "BUYER I": {
+        "mean": 41357.2275,
+        "median": 42472.71,
+        "min": 17131.09,
+        "max": 56604.23,
+        "total": 12
+    },
+    "LIVESTOCK TECHNICIAN II": {
+        "mean": 45935.8333333,
+        "median": 45048,
+        "min": 41700,
+        "max": 53256,
+        "total": 6
+    },
+    "REGISTERED NURSE I": {
+        "mean": 15843.3033333,
+        "median": 6490.55,
+        "min": 147.56,
+        "max": 44912.58,
+        "total": 12
+    },
+    "REPROGRAPHICS SPECIALIST IV": {
+        "mean": 37527.9922222,
+        "median": 43044,
+        "min": 5242.9,
+        "max": 49650.12,
+        "total": 9
+    },
+    "PER DIEM NON-EXEMPT - HEALTHCARE": {
+        "mean": 10000.5456579,
+        "median": 6600,
+        "min": 338.78,
+        "max": 47739.4,
+        "total": 76
+    },
+    "PEST CONTROL AND SPRAY SPECIALIST": {
+        "mean": 40795.0585714,
+        "median": 44256,
+        "min": 14266.2,
+        "max": 49979.99,
+        "total": 7
+    },
+    "CROP TECHNICIAN I": {
+        "mean": 41661.515,
+        "median": 42721.1,
+        "min": 40601.93,
+        "max": 42721.1,
+        "total": 2
+    },
+    "PROPERTY CLERK II": {
+        "mean": 44153.9438889,
+        "median": 44748,
+        "min": 34242.06,
+        "max": 52340.56,
+        "total": 18
+    },
+    "LIVESTOCK TECHNICIAN I": {
+        "mean": 40079.3633333,
+        "median": 40486.09,
+        "min": 38940,
+        "max": 40812,
+        "total": 3
+    },
+    "LICENSED VOCATIONAL NURSE II": {
+        "mean": 43251.125,
+        "median": 45420,
+        "min": 36744,
+        "max": 49700.98,
+        "total": 8
+    },
+    "ATHLETIC EQUIPMENT ATTENDANT II": {
+        "mean": 31926.0127273,
+        "median": 36276,
+        "min": 9010,
+        "max": 54642.76,
+        "total": 22
+    },
+    "ADMINISTRATIVE ANALYST\/SPECIALIST -11\/12": {
+        "mean": 44181.1885714,
+        "median": 50724,
+        "min": 23528.96,
+        "max": 54972,
+        "total": 7
+    },
+    "PHLEBOTOMIST\/CLINICAL LABORATORY ASSISTANT": {
+        "mean": 22071.5388889,
+        "median": 28139.82,
+        "min": 132,
+        "max": 42381.36,
+        "total": 18
+    },
+    "CLINICAL LABORATORY SCIENTIST I": {
+        "mean": 55270.1566667,
+        "median": 56815.05,
+        "min": 28886,
+        "max": 74469.76,
+        "total": 15
+    },
+    "PHARMACY TECHNICIAN": {
+        "mean": 26333.5996667,
+        "median": 38400,
+        "min": 30,
+        "max": 47942.05,
+        "total": 30
+    },
+    "MEDICAL TRANSCRIBER": {
+        "mean": 23871.381,
+        "median": 30540,
+        "min": 342.35,
+        "max": 37048.8,
+        "total": 10
+    },
+    "RADIOLOGIC TECHNOLOGIST II": {
+        "mean": 39169.5593333,
+        "median": 42185,
+        "min": 3314.04,
+        "max": 60828,
+        "total": 15
+    },
+    "FARM LABORER": {
+        "mean": 18045.1147368,
+        "median": 14861.69,
+        "min": 351.6,
+        "max": 31021.82,
+        "total": 19
+    },
+    "ACCOUNTING CLERK": {
+        "mean": 18226.035625,
+        "median": 19957.99,
+        "min": 438.9,
+        "max": 30060,
+        "total": 16
+    },
+    "PIANO TECHNICIAN II": {
+        "mean": 34561.3590909,
+        "median": 27510,
+        "min": 1458.55,
+        "max": 59160,
+        "total": 11
+    },
+    "PERFORMING ARTS TECHNICIAN -10\/12": {
+        "mean": 27002.7766667,
+        "median": 34776,
+        "min": 8086.86,
+        "max": 37692,
+        "total": 9
+    },
+    "TREE TRIMMER I": {
+        "mean": 33158.0333333,
+        "median": 42813,
+        "min": 11613.1,
+        "max": 45048,
+        "total": 3
+    },
+    "EQUIPMENT SYSTEMS SPECIALIST -10\/12": {
+        "mean": 8045.45,
+        "median": 8045.45,
+        "min": 8045.45,
+        "max": 8045.45,
+        "total": 1
+    },
+    "EQUIPMENT TECHNICIAN III, ELECTRONIC": {
+        "mean": 48381.1032,
+        "median": 56558.46,
+        "min": 647.04,
+        "max": 68388,
+        "total": 25
+    },
+    "ASSOCIATE, ACADEMIC AND INSTITUTIONAL STUDIES II": {
+        "mean": 54623.4815278,
+        "median": 66912,
+        "min": 1624.27,
+        "max": 92429.65,
+        "total": 72
+    },
+    "HEAD COACH - 12 MONTH": {
+        "mean": 87621.7307317,
+        "median": 100044,
+        "min": 359.86,
+        "max": 112812,
+        "total": 41
+    },
+    "LEAD PAINTER": {
+        "mean": 64743.8053846,
+        "median": 64660.59,
+        "min": 48056.98,
+        "max": 85222.26,
+        "total": 13
+    },
+    "PHARMACIST I - 10 MONTH": {
+        "mean": 76536,
+        "median": 76536,
+        "min": 76536,
+        "max": 76536,
+        "total": 1
+    },
+    "SUPERVISING LIBRARIAN - 12 MONTH": {
+        "mean": 93561.955,
+        "median": 113508,
+        "min": 73615.91,
+        "max": 113508,
+        "total": 2
+    },
+    "FEDERAL PROGRAMS COORDINATOR": {
+        "mean": 65640,
+        "median": 65640,
+        "min": 65640,
+        "max": 65640,
+        "total": 1
+    },
+    "HEAD ATHLETIC TRAINER - 12 MONTH": {
+        "mean": 45320.0041667,
+        "median": 55148.23,
+        "min": 16514.21,
+        "max": 66000,
+        "total": 12
+    },
+    "ATHLETIC EQUIPMENT ATTENDANT I": {
+        "mean": 18701.0511111,
+        "median": 20833.51,
+        "min": 1165.37,
+        "max": 36806.1,
+        "total": 18
+    },
+    "COACH - 12 MONTH": {
+        "mean": 62335.595,
+        "median": 67356,
+        "min": 2272.91,
+        "max": 107960,
+        "total": 68
+    },
+    "LIBRARY ASSISTANT III": {
+        "mean": 17314.656,
+        "median": 6934.5,
+        "min": 1086.52,
+        "max": 50809.52,
+        "total": 5
+    },
+    "FACULTY UNIT 403B DEDUCTION MONTHLY": {
+        "mean": 6000,
+        "median": 6000,
+        "min": 6000,
+        "max": 6000,
+        "total": 1
+    },
+    "ACCOMPANIST II": {
+        "mean": 10994.8558108,
+        "median": 4744.36,
+        "min": 36.12,
+        "max": 51816,
+        "total": 74
+    },
+    "NOTETAKER": {
+        "mean": 731.251111111,
+        "median": 648,
+        "min": 67.5,
+        "max": 1765.26,
+        "total": 9
+    },
+    "SPEECH PATHOLOGIST": {
+        "mean": 39186.6729412,
+        "median": 22739.05,
+        "min": 794.62,
+        "max": 87500,
+        "total": 17
+    },
+    "REGISTERED NURSE III": {
+        "mean": 46867.3573333,
+        "median": 51815.25,
+        "min": 5392.74,
+        "max": 76284,
+        "total": 15
+    },
+    "LEAD INTERPRETER": {
+        "mean": 45866.9966667,
+        "median": 52601.51,
+        "min": 82.76,
+        "max": 80573.25,
+        "total": 9
+    },
+    "MEDICAL SECRETARY": {
+        "mean": 36445.8433333,
+        "median": 34392.31,
+        "min": 34205.64,
+        "max": 40739.58,
+        "total": 3
+    },
+    "ATHLETIC TRAINER II - AY": {
+        "mean": 40110,
+        "median": 40200,
+        "min": 40020,
+        "max": 40200,
+        "total": 2
+    },
+    "PHYSICAL THERAPIST II": {
+        "mean": 37475.7366667,
+        "median": 31458,
+        "min": 103.14,
+        "max": 92460.66,
+        "total": 9
+    },
+    "ATHLETIC TRAINER I - AY": {
+        "mean": 11796.39,
+        "median": 13788,
+        "min": 4596,
+        "max": 18384,
+        "total": 4
+    },
+    "INSTRUCTIONAL FACULTY, EXTRA QUARTER ASSIGNMENT, QSYRO": {
+        "mean": 9524.65636166,
+        "median": 8299.8,
+        "min": 273.33,
+        "max": 35745,
+        "total": 459
+    },
+    "PUBLIC AFFAIRS\/COMMUNICATION SPECIALIST -10\/12": {
+        "mean": 21013.1128571,
+        "median": 14908.18,
+        "min": 6385.22,
+        "max": 41132.9,
+        "total": 7
+    },
+    "LIBRARY ASSISTANT IV": {
+        "mean": 8748.4,
+        "median": 8748.4,
+        "min": 8748.4,
+        "max": 8748.4,
+        "total": 1
+    },
+    "DATA ENTRY OPERATOR": {
+        "mean": 18181.545,
+        "median": 24720.38,
+        "min": 736.84,
+        "max": 28308,
+        "total": 4
+    },
+    "HEAD COACH - 10 MONTH": {
+        "mean": 86156.3042857,
+        "median": 90048,
+        "min": 49032,
+        "max": 99978,
+        "total": 7
+    },
+    "EQUIPMENT TECHNICIAN III, MECHANICAL": {
+        "mean": 57652.7328571,
+        "median": 60260,
+        "min": 38525.77,
+        "max": 71796,
+        "total": 14
+    },
+    "NURSERY TECHNICIAN II": {
+        "mean": 50458.8825,
+        "median": 51461.13,
+        "min": 47448.84,
+        "max": 51487,
+        "total": 4
+    },
+    "GARDENER": {
+        "mean": 38206.5069231,
+        "median": 41644.2,
+        "min": 6688.4,
+        "max": 51831.15,
+        "total": 13
+    },
+    "STUDENT SERVICES PROFESSIONAL IV - 10 MONTH": {
+        "mean": 45234.2333333,
+        "median": 48942.8,
+        "min": 34793.1,
+        "max": 51966.8,
+        "total": 3
+    },
+    "LIBRARY ASSISTANT I": {
+        "mean": 5493.75,
+        "median": 8330.4,
+        "min": 2657.1,
+        "max": 8330.4,
+        "total": 2
+    },
+    "HEALTH EDUCATION ASSISTANT": {
+        "mean": 25539.1415,
+        "median": 24185.4,
+        "min": 2741.25,
+        "max": 57876,
+        "total": 20
+    },
+    "REPROGRAPHICS SPECIALIST I": {
+        "mean": 15804.0133333,
+        "median": 15945.37,
+        "min": 1196.14,
+        "max": 32806.4,
+        "total": 6
+    },
+    "ACCOMPANIST I": {
+        "mean": 2987.31714286,
+        "median": 811.25,
+        "min": 77.42,
+        "max": 16439.73,
+        "total": 14
+    },
+    "INSTRUCTIONAL FACULTY, CHAIRMAN, ACADEMIC SENATE": {
+        "mean": 111572.19,
+        "median": 111572.19,
+        "min": 111572.19,
+        "max": 111572.19,
+        "total": 1
+    },
+    "SUPERVISING AUTOMOTIVE\/EQUIPMENT MECHANIC": {
+        "mean": 72028.925,
+        "median": 72630.97,
+        "min": 59908.91,
+        "max": 96908.06,
+        "total": 6
+    },
+    "LEAD BUILDING SERVICE ENGINEER": {
+        "mean": 62965.784,
+        "median": 71296.35,
+        "min": 21014.9,
+        "max": 80038.64,
+        "total": 10
+    },
+    "EDUCATIONAL TELEVISION PROGRAM DIRECTOR": {
+        "mean": 74946.8,
+        "median": 74946.8,
+        "min": 74946.8,
+        "max": 74946.8,
+        "total": 1
+    },
+    "BUDGET ANALYST": {
+        "mean": 59076.805,
+        "median": 55764,
+        "min": 38964.37,
+        "max": 82333.92,
+        "total": 12
+    },
+    "MANAGEMENT INTERN": {
+        "mean": 14494.0466667,
+        "median": 12915,
+        "min": 5260.8,
+        "max": 30820.27,
+        "total": 9
+    },
+    "STUDENT SERVICES PROFESSIONAL II - ACADEMIC YEAR": {
+        "mean": 22839.4,
+        "median": 22839.4,
+        "min": 22839.4,
+        "max": 22839.4,
+        "total": 1
+    },
+    "VISITING FACULTY - 12 MONTH": {
+        "mean": 16802.59,
+        "median": 20001,
+        "min": 5406.77,
+        "max": 25000,
+        "total": 3
+    },
+    "DIVING SAFETY OFFICER": {
+        "mean": 40078.63,
+        "median": 36536,
+        "min": 27504,
+        "max": 54012.48,
+        "total": 5
+    },
+    "PUBLIC AFFAIRS\/COMMUNICATION SPECIALIST -11\/12": {
+        "mean": 32421.5,
+        "median": 33115,
+        "min": 31728,
+        "max": 33115,
+        "total": 2
+    },
+    "CONFIDENTIAL OFFICE SUPPORT -11\/12": {
+        "mean": 30704.33,
+        "median": 30704.33,
+        "min": 30704.33,
+        "max": 30704.33,
+        "total": 1
+    },
+    "PARKING OFFICER -11\/12": {
+        "mean": 30410.64,
+        "median": 30410.64,
+        "min": 30410.64,
+        "max": 30410.64,
+        "total": 1
+    },
+    "VETERINARIAN II": {
+        "mean": 12372.7,
+        "median": 14224.82,
+        "min": 10520.58,
+        "max": 14224.82,
+        "total": 2
+    },
+    "LIBRARY SERVICES SPECIALIST TRAINEE": {
+        "mean": 7654.49,
+        "median": 7654.49,
+        "min": 7654.49,
+        "max": 7654.49,
+        "total": 1
+    },
+    "TECHNICIAN TRAINEE": {
+        "mean": 1819.65909091,
+        "median": 918.03,
+        "min": 304.32,
+        "max": 5385.4,
+        "total": 11
+    },
+    "SENIOR PLANNER\/ESTIMATOR\/SCHEDULER": {
+        "mean": 34282.765,
+        "median": 64536,
+        "min": 4029.53,
+        "max": 64536,
+        "total": 2
+    },
+    "ADMINISTRATOR III - ACADEMIC YEAR": {
+        "mean": 62044.6933333,
+        "median": 52000.08,
+        "min": 39447,
+        "max": 94687,
+        "total": 3
+    },
+    "RADIATION SAFETY OFFICER": {
+        "mean": 76776,
+        "median": 86208,
+        "min": 64800,
+        "max": 87072,
+        "total": 4
+    },
+    "ASSOCIATE, ACADEMIC AND INSTITUTIONAL STUDIES III": {
+        "mean": 71497.9091304,
+        "median": 80580,
+        "min": 2236.65,
+        "max": 104184,
+        "total": 23
+    },
+    "TREE TRIMMER II": {
+        "mean": 50676.7066667,
+        "median": 48494.7,
+        "min": 44071.15,
+        "max": 59464.27,
+        "total": 3
+    },
+    "LEAD LIBRARY ASSISTANT III": {
+        "mean": 47513.1925,
+        "median": 51263.17,
+        "min": 42810.8,
+        "max": 52482.8,
+        "total": 4
+    },
+    "EQUIPMENT TECHNICIAN I, ELECTRO-MECHANICAL": {
+        "mean": 41964.1,
+        "median": 48651.6,
+        "min": 11026.9,
+        "max": 51408,
+        "total": 7
+    },
+    "EQUIPMENT MAINTENANCE ASSISTANT": {
+        "mean": 39804.595,
+        "median": 47350.68,
+        "min": 19080.87,
+        "max": 50138.83,
+        "total": 4
+    },
+    "SUPERVISING TELEPHONE OPERATOR": {
+        "mean": 39996,
+        "median": 39996,
+        "min": 39996,
+        "max": 39996,
+        "total": 1
+    },
+    "VETERINARIAN I": {
+        "mean": 37110,
+        "median": 37110,
+        "min": 37110,
+        "max": 37110,
+        "total": 1
+    },
+    "TELEPHONE OPERATOR": {
+        "mean": 35530.88,
+        "median": 35530.88,
+        "min": 35530.88,
+        "max": 35530.88,
+        "total": 1
+    },
+    "EQUIPMENT TECHNICIAN I, ELECTRONIC": {
+        "mean": 39457.96,
+        "median": 42597.75,
+        "min": 25676.13,
+        "max": 50100,
+        "total": 3
+    },
+    "CLERICAL TRAINEE": {
+        "mean": 2154.86,
+        "median": 1525.6,
+        "min": 1341.6,
+        "max": 4344.24,
+        "total": 4
+    },
+    "ADMINISTRATIVE TRAINEE": {
+        "mean": 10282.2814286,
+        "median": 4104.43,
+        "min": 845,
+        "max": 33912,
+        "total": 7
+    },
+    "WINDOW CLEANER": {
+        "mean": 22638.0875,
+        "median": 35403.73,
+        "min": 237.12,
+        "max": 37903.95,
+        "total": 4
+    },
+    "ENGLISH LANGUAGE PROGRAM INSTRUCTOR": {
+        "mean": 25736.973871,
+        "median": 22822.95,
+        "min": 1490.64,
+        "max": 54624.84,
+        "total": 31
+    },
+    "CERTIFIED BUILDING SERVICE ENGINEER APPRENTICE": {
+        "mean": 50121.25,
+        "median": 50121.25,
+        "min": 50121.25,
+        "max": 50121.25,
+        "total": 1
+    },
+    "SUPERVISING MICROGRAPHICS TECHNICIAN I": {
+        "mean": 43044,
+        "median": 43044,
+        "min": 43044,
+        "max": 43044,
+        "total": 1
+    },
+    "PERSONNEL ASSISTANT": {
+        "mean": 30063.52875,
+        "median": 34517.09,
+        "min": 18744,
+        "max": 40709.2,
+        "total": 8
+    },
+    "MICROGRAPHICS TECHNICIAN": {
+        "mean": 36324,
+        "median": 36324,
+        "min": 36324,
+        "max": 36324,
+        "total": 1
+    },
+    "LABORATORY ASSISTANT II": {
+        "mean": 7422.06173913,
+        "median": 6765.15,
+        "min": 978,
+        "max": 17384.12,
+        "total": 23
+    },
+    "ACADEMIC SUPPORT STUDENT EMPLOYEE I": {
+        "mean": 3291.03,
+        "median": 3291.03,
+        "min": 3291.03,
+        "max": 3291.03,
+        "total": 1
+    },
+    "ENGLISH LANGUAGE PROGRAM SUBSTITUTE INSTRUCTOR": {
+        "mean": 428.363636364,
+        "median": 342,
+        "min": 76,
+        "max": 798,
+        "total": 11
+    },
+    "LEAD LIBRARY ASSISTANT IV": {
+        "mean": 52923.3028571,
+        "median": 53112.08,
+        "min": 44586.8,
+        "max": 56596.8,
+        "total": 7
+    },
+    "INTERPRETER II - 8\/12": {
+        "mean": 39555.95375,
+        "median": 40692.09,
+        "min": 21246,
+        "max": 51249.63,
+        "total": 16
+    },
+    "EQUIPMENT TECHNICIAN I, MECHANICAL": {
+        "mean": 38510.05,
+        "median": 40488,
+        "min": 34074.15,
+        "max": 40968,
+        "total": 3
+    },
+    "HEAD RESIDENT I": {
+        "mean": 23694.530625,
+        "median": 28677.85,
+        "min": 6389.81,
+        "max": 37064.77,
+        "total": 16
+    },
+    "MEDIA PRODUCTION SPECIALIST -10\/12": {
+        "mean": 28836,
+        "median": 28836,
+        "min": 28836,
+        "max": 28836,
+        "total": 1
+    },
+    "ACCOUNTANT III": {
+        "mean": 70845,
+        "median": 70544,
+        "min": 70544,
+        "max": 71447,
+        "total": 3
+    },
+    "REALTIME CAPTIONER": {
+        "mean": 30743.004,
+        "median": 21203.62,
+        "min": 130.35,
+        "max": 61198.5,
+        "total": 5
+    },
+    "ANIMAL HEALTH TECHNICIAN": {
+        "mean": 52360.695,
+        "median": 59183.68,
+        "min": 45537.71,
+        "max": 59183.68,
+        "total": 2
+    },
+    "PARKING OFFICER -10\/12": {
+        "mean": 20805.1733333,
+        "median": 24583.38,
+        "min": 13182.57,
+        "max": 24649.57,
+        "total": 3
+    },
+    "POST-DOCTORAL COUNSELOR INTERN\/FELLOW": {
+        "mean": 1234.64,
+        "median": 1234.64,
+        "min": 1234.64,
+        "max": 1234.64,
+        "total": 1
+    },
+    "INSTRUCTIONAL FACULTY - ACADEMIC YEAR *": {
+        "mean": 78970.0090123,
+        "median": 81324,
+        "min": 3496.8,
+        "max": 130870.77,
+        "total": 324
+    },
+    "SUPERVISING METAL WORKER": {
+        "mean": 71579.1766667,
+        "median": 68774.24,
+        "min": 68317.55,
+        "max": 77645.74,
+        "total": 3
+    },
+    "PAINTER, CASUAL EMPLOYMENT": {
+        "mean": 23322.268,
+        "median": 20045,
+        "min": 13376,
+        "max": 39824,
+        "total": 10
+    },
+    "SENIOR DATA CONTROL TECHNICIAN": {
+        "mean": 27172,
+        "median": 32210.43,
+        "min": 9834.3,
+        "max": 37140,
+        "total": 7
+    },
+    "DESKTOP PUBLISHING\/GRAPHIC SPECIALIST -10\/12": {
+        "mean": 35424,
+        "median": 35424,
+        "min": 35424,
+        "max": 35424,
+        "total": 1
+    },
+    "INVENTORY CLERK": {
+        "mean": 22409.8733333,
+        "median": 17400,
+        "min": 16470.7,
+        "max": 33358.92,
+        "total": 3
+    },
+    "LABORER, BUILDING TRADES, CASUAL EMPLOYMENT": {
+        "mean": 30598.37,
+        "median": 30598.37,
+        "min": 30598.37,
+        "max": 30598.37,
+        "total": 1
+    },
+    "LEAD INTERPRETER - 8\/12": {
+        "mean": 28692,
+        "median": 28692,
+        "min": 28692,
+        "max": 28692,
+        "total": 1
+    },
+    "REALTIME CAPTIONER - 8\/12": {
+        "mean": 23182.5125,
+        "median": 25266.05,
+        "min": 20784,
+        "max": 25392,
+        "total": 4
+    },
+    "LEGISLATIVE\/EXECUTIVE FELLOW": {
+        "mean": 9892.05184615,
+        "median": 8582.29,
+        "min": 2369,
+        "max": 19064.81,
+        "total": 130
+    },
+    "CARPENTER, CASUAL EMPLOYMENT": {
+        "mean": 15690.91,
+        "median": 15690.91,
+        "min": 15690.91,
+        "max": 15690.91,
+        "total": 1
+    },
+    "DATA CONTROL TECHNICIAN": {
+        "mean": 23208.0533333,
+        "median": 30396,
+        "min": 1788.16,
+        "max": 37440,
+        "total": 3
+    },
+    "REPRODUCTION PROCESSES ASSISTANT": {
+        "mean": 42479.895,
+        "median": 46437.92,
+        "min": 38521.87,
+        "max": 46437.92,
+        "total": 2
+    },
+    "DUPLICATING MACHINE OPERATOR I": {
+        "mean": 33007.555,
+        "median": 38065.84,
+        "min": 27949.27,
+        "max": 38065.84,
+        "total": 2
+    },
+    "PAYROLL TECHNICIAN TRAINEE": {
+        "mean": 6522.66,
+        "median": 11876.06,
+        "min": 1169.26,
+        "max": 11876.06,
+        "total": 2
+    },
+    "POWER PLANT OPERATOR": {
+        "mean": 64664.2171429,
+        "median": 80593.23,
+        "min": 432.96,
+        "max": 89723.85,
+        "total": 7
+    },
+    "HEAVY CONSTRUCTION EQUIPMENT OPERATOR": {
+        "mean": 54360.44,
+        "median": 56892.88,
+        "min": 51828,
+        "max": 56892.88,
+        "total": 2
+    },
+    "ORTHOPEDIC TECHNICIAN": {
+        "mean": 32815.29,
+        "median": 32815.29,
+        "min": 32815.29,
+        "max": 32815.29,
+        "total": 1
+    },
+    "SENIOR DATA ENTRY OPERATOR": {
+        "mean": 32592,
+        "median": 32592,
+        "min": 32592,
+        "max": 32592,
+        "total": 1
+    },
+    "REGISTERED NURSE II - 10 MONTH": {
+        "mean": 30588,
+        "median": 30588,
+        "min": 30588,
+        "max": 30588,
+        "total": 1
+    },
+    "POLICE OFFICER CADET-NONREPRESENTED": {
+        "mean": 5365.82,
+        "median": 5365.82,
+        "min": 5365.82,
+        "max": 5365.82,
+        "total": 1
+    },
+    "SFSU HEAD START PROGRAM SPECIALIST": {
+        "mean": 47302.5447619,
+        "median": 50562,
+        "min": 1733.74,
+        "max": 93345.6,
+        "total": 21
+    },
+    "REGISTERED NURSE III - 10 MONTH": {
+        "mean": 56496,
+        "median": 56496,
+        "min": 56496,
+        "max": 56496,
+        "total": 1
+    },
+    "CERTIFIED LOCKSMITH APPRENTICE": {
+        "mean": 55791.4,
+        "median": 55791.4,
+        "min": 55791.4,
+        "max": 55791.4,
+        "total": 1
+    },
+    "HEAD START STAFF": {
+        "mean": 33334.2298876,
+        "median": 32072.01,
+        "min": 1057.75,
+        "max": 52422.5,
+        "total": 89
+    },
+    "EARLY CHILDHOOD MASTER TEACHER": {
+        "mean": 31555.535,
+        "median": 34424.1,
+        "min": 3352.27,
+        "max": 44062.68,
+        "total": 14
+    },
+    "EARLY CHILDHOOD TEACHER": {
+        "mean": 24643.505,
+        "median": 32795.46,
+        "min": 2144,
+        "max": 32817.96,
+        "total": 6
+    },
+    "EARLY CHILDHOOD ASSOCIATE TEACHER": {
+        "mean": 16091.2725,
+        "median": 17166,
+        "min": 2134.13,
+        "max": 27600,
+        "total": 8
+    },
+    "GLASSBLOWER": {
+        "mean": 12900,
+        "median": 12900,
+        "min": 12900,
+        "max": 12900,
+        "total": 1
+    },
+    "LABORATORY ASSISTANT I": {
+        "mean": 1814.78727273,
+        "median": 1223.64,
+        "min": 193.05,
+        "max": 4582,
+        "total": 11
+    },
+    "LIBRARIAN, PROGRAM SERVICES - 12 MONTH": {
+        "mean": 76062.93,
+        "median": 76062.93,
+        "min": 76062.93,
+        "max": 76062.93,
+        "total": 1
+    },
+    "POULTRY TECHNICIAN": {
+        "mean": 54528,
+        "median": 54528,
+        "min": 54528,
+        "max": 54528,
+        "total": 1
+    },
+    "CROP TECHNICIAN II": {
+        "mean": 54000,
+        "median": 54000,
+        "min": 54000,
+        "max": 54000,
+        "total": 1
+    },
+    "VISUAL RESOURCE SPECIALIST -10\/12": {
+        "mean": 44364,
+        "median": 44364,
+        "min": 44364,
+        "max": 44364,
+        "total": 1
+    },
+    "PIANO TECHNICIAN I": {
+        "mean": 6897.19666667,
+        "median": 7471.31,
+        "min": 249.48,
+        "max": 12970.8,
+        "total": 3
+    },
+    "COOK II LEAD": {
+        "mean": 39354.105,
+        "median": 40988.97,
+        "min": 37719.24,
+        "max": 40988.97,
+        "total": 2
+    },
+    "FOOD SERVICE WORKER II LEAD": {
+        "mean": 33084.705,
+        "median": 36858.36,
+        "min": 29311.05,
+        "max": 36858.36,
+        "total": 2
+    },
+    "FOOD SERVICE WORKER I LEAD": {
+        "mean": 30858.71,
+        "median": 30858.71,
+        "min": 30858.71,
+        "max": 30858.71,
+        "total": 1
+    },
     "EXECUTIVE DIRECTOR\/DELTA PROTECTION COMMISSION": {
         "mean": 106715.75,
         "median": 106715.75,
@@ -10681,13 +13327,6 @@
         "max": 126432.11,
         "total": 63
     },
-    "PHARMACIST II": {
-        "mean": 104451.87375,
-        "median": 114253.45,
-        "min": 35342.31,
-        "max": 126180.95,
-        "total": 8
-    },
     "SUPERVISING REGISTERED NURSE": {
         "mean": 94648.4496154,
         "median": 101813.6,
@@ -10911,13 +13550,6 @@
         "min": 89291.4,
         "max": 89291.4,
         "total": 2
-    },
-    "PHYSICAL THERAPIST II": {
-        "mean": 89265.34,
-        "median": 89265.34,
-        "min": 89265.34,
-        "max": 89265.34,
-        "total": 1
     },
     "INDIVIDUAL PROGRAM COORDINATOR (SAFETY)": {
         "mean": 53731.8958333,
@@ -11261,13 +13893,6 @@
         "min": 43921.75,
         "max": 60783.49,
         "total": 8
-    },
-    "REGISTERED DIETITIAN": {
-        "mean": 43049.5721429,
-        "median": 52238.58,
-        "min": 9375.63,
-        "max": 60474.64,
-        "total": 28
     },
     "FOOD MANAGER": {
         "mean": 48035.0675,
@@ -11716,13 +14341,6 @@
         "min": 11139.27,
         "max": 37300.92,
         "total": 5
-    },
-    "MEDICAL TRANSCRIBER": {
-        "mean": 28147.41,
-        "median": 37048.8,
-        "min": 12212.6,
-        "max": 37048.8,
-        "total": 4
     },
     "SUPERVISING HOUSEKEEPER I": {
         "mean": 32358.5768,
@@ -14705,13 +17323,6 @@
         "min": 200,
         "max": 116910.69,
         "total": 450
-    },
-    "NURSE PRACTITIONER": {
-        "mean": 106302.29,
-        "median": 111499.5,
-        "min": 93971.72,
-        "max": 111499.5,
-        "total": 4
     },
     "SKILLED TRADES JOURNEYPERSON (CASUAL) (MASON)": {
         "mean": 45948.2252174,
@@ -18360,13 +20971,6 @@
         "max": 102609.04,
         "total": 10
     },
-    "SENIOR BUDGET ANALYST": {
-        "mean": 83397.1745455,
-        "median": 82591.44,
-        "min": 72805.44,
-        "max": 101550.46,
-        "total": 11
-    },
     "UTILITY ENGINEER\/ANALYST": {
         "mean": 95723.27,
         "median": 101389.69,
@@ -18548,13 +21152,6 @@
         "min": 26802.76,
         "max": 82591.44,
         "total": 3
-    },
-    "BUDGET ANALYST": {
-        "mean": 70319.715,
-        "median": 75197.64,
-        "min": 44982.32,
-        "max": 82333.92,
-        "total": 6
     },
     "PORTFOLIO ADMINISTRATION ANALYST": {
         "mean": 77040.31,
@@ -21096,13 +23693,6 @@
         "min": 39433.5,
         "max": 39469.12,
         "total": 2
-    },
-    "LABORER": {
-        "mean": 30068.265119,
-        "median": 34230.65,
-        "min": 727.99,
-        "max": 62254.18,
-        "total": 84
     },
     "MUSEUM CUSTODIAN": {
         "mean": 27179.5683333,
@@ -26298,13 +28888,6 @@
         "max": 54831.59,
         "total": 170
     },
-    "FARM LABORER": {
-        "mean": 16239.0416667,
-        "median": 14861.69,
-        "min": 351.6,
-        "max": 31021.82,
-        "total": 12
-    },
     "AGRON AES-AY": {
         "mean": 51555.1755556,
         "median": 8955,
@@ -28601,13 +31184,6 @@
         "max": 84585.35,
         "total": 24
     },
-    "PLUMBER": {
-        "mean": 59936.3495,
-        "median": 63464.67,
-        "min": 389.67,
-        "max": 84535.06,
-        "total": 20
-    },
     "COMPUTER OPS SUPV": {
         "mean": 84290.43,
         "median": 84290.43,
@@ -29266,13 +31842,6 @@
         "max": 66972.31,
         "total": 2
     },
-    "LOCKSMITH": {
-        "mean": 56138.0144444,
-        "median": 59874.64,
-        "min": 5000,
-        "max": 82167.48,
-        "total": 9
-    },
     "PHYS THER AST 2": {
         "mean": 62553.9466667,
         "median": 63200.94,
@@ -29756,13 +32325,6 @@
         "max": 65385.96,
         "total": 3
     },
-    "PAINTER": {
-        "mean": 40300.8605556,
-        "median": 52907.36,
-        "min": 1777.01,
-        "max": 66702.81,
-        "total": 36
-    },
     "ADMITTING WORKER SUPV": {
         "mean": 54331.5666667,
         "median": 56137.02,
@@ -29776,13 +32338,6 @@
         "min": 372.96,
         "max": 78685.43,
         "total": 392
-    },
-    "CARPENTER": {
-        "mean": 45041.3478571,
-        "median": 58464.42,
-        "min": 11067.53,
-        "max": 75542.78,
-        "total": 14
     },
     "PUBL ADMST ANL PRN": {
         "mean": 46386.4866667,
@@ -29874,13 +32429,6 @@
         "min": 2000,
         "max": 56512.72,
         "total": 7
-    },
-    "MASON": {
-        "mean": 40326.6625,
-        "median": 53534.91,
-        "min": 12057.14,
-        "max": 56232.48,
-        "total": 4
     },
     "MED RCDS AST SUPV": {
         "mean": 51483.3033333,
@@ -35097,13 +37645,6 @@
         "max": 7983.54,
         "total": 4
     },
-    "LECTURER - ACADEMIC YEAR": {
-        "mean": 7914.63,
-        "median": 7914.63,
-        "min": 7914.63,
-        "max": 7914.63,
-        "total": 1
-    },
     "READER-NON GSHIP\/NON REP": {
         "mean": 1250.90149701,
         "median": 705.11,
@@ -35592,13 +38133,6 @@
         "median": 9855.26,
         "min": 5029.98,
         "max": 36180.06,
-        "total": 3
-    },
-    "WINDOW CLEANER": {
-        "mean": 30105.0766667,
-        "median": 35403.73,
-        "min": 17007.55,
-        "max": 37903.95,
         "total": 3
     },
     "TUT-NON STDNT\/NON REP": {
@@ -36119,13 +38653,6 @@
         "max": 120073.35,
         "total": 1
     },
-    "PHARMACIST I": {
-        "mean": 78544.245,
-        "median": 84951.96,
-        "min": 20901.86,
-        "max": 118807.23,
-        "total": 12
-    },
     "ADMINISTRATOR, VETERANS HOME OF CALIFORNIA, YOUNTVILLE": {
         "mean": 115106.7,
         "median": 115106.7,
@@ -36433,13 +38960,6 @@
         "min": 383.2,
         "max": 47936.42,
         "total": 2
-    },
-    "PHARMACY TECHNICIAN": {
-        "mean": 32126.4618182,
-        "median": 40619.9,
-        "min": 4316.14,
-        "max": 42983.85,
-        "total": 11
     },
     "RESIDENTIAL CARE UNIT LEADER": {
         "mean": 38076.7791667,

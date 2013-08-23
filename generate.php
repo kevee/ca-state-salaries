@@ -1,7 +1,7 @@
 <?php
 
-$departments = json_decode(file_get_contents('departments.json'));
-$years = json_decode(file_get_contents('years.json'));
+$departments = json_decode(file_get_contents('data/departments.json'));
+$years = json_decode(file_get_contents('data/years.json'));
 foreach($years as $year) {
 	foreach($departments as $filename => $department) {
 		$results = array();
