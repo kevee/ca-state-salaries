@@ -1,0 +1,41 @@
+{
+    "2681550": {
+        "first_name": "Jean",
+        "middle_name": "C",
+        "last_name": "Nicolas",
+        "job_title": "ASSOCIATE GOVERNMENTAL PROGRAM ANALYST",
+        "department": "CALIFORNIA SENIOR LEGISLATURE",
+        "base_pay": 0,
+        "other_pay": 0,
+        "overtime_pay": 0,
+        "total_pay": 44070.52,
+        "year": "-",
+        "dept_average": 0
+    },
+    "2681551": {
+        "first_name": "Kristen",
+        "middle_name": "M",
+        "last_name": "Bowling",
+        "job_title": "OFFICE TECHNICIAN (TYPING)",
+        "department": "CALIFORNIA SENIOR LEGISLATURE",
+        "base_pay": 0,
+        "other_pay": 0,
+        "overtime_pay": 0,
+        "total_pay": 14230.12,
+        "year": "-",
+        "dept_average": 0
+    },
+    "2681552": {
+        "first_name": "Elizabeth",
+        "middle_name": "M",
+        "last_name": "Thorstad",
+        "job_title": "OFFICE TECHNICIAN (TYPING)",
+        "department": "CALIFORNIA SENIOR LEGISLATURE",
+        "base_pay": 0,
+        "other_pay": 0,
+        "overtime_pay": 0,
+        "total_pay": 4603.95,
+        "year": "-",
+        "dept_average": 0
+    }
+}
